@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack)",
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell($env:Path = \"C:\\\\Program Files\\\\nodejs;\" + $env:Path; node --version; npm --version)",
+      "PowerShell($src = \"C:\\\\Users\\\\LEE_GICHUL\\\\Desktop\\\\content-dashboard\"; $dst = \"C:\\\\Users\\\\LEE_GICHUL\\\\Desktop\\\\새 폴더\"; Get-ChildItem -Path $src -Force | Where-Object { $_.Name -ne \".git\" } | ForEach-Object { Copy-Item -Path $_.FullName -Destination $dst -Recurse -Force }; Write-Host \"Done\")",
+      "PowerShell([System.IO.Directory]::GetFileSystemEntries\\(\"C:\\\\Users\\\\LEE_GICHUL\\\\Desktop\\\\새 폴더\"\\))",
+      "Bash(git add *)"
+    ]
+  }
+}
