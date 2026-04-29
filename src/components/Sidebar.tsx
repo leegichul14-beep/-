@@ -3,14 +3,11 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import {
-  LayoutDashboard,
-  Store,
-  Tag,
-  BarChart2,
-  ShoppingBag,
-  Upload,
+  LayoutDashboard, Store, Tag, BarChart2,
+  ShoppingBag, Upload, FolderOpen, RotateCcw, Loader2, CheckCircle2,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
+import { useDashboardData } from '@/contexts/DataContext'
 
 const nav = [
   { href: '/dashboard',          label: '전체 현황',    icon: LayoutDashboard },
@@ -23,6 +20,8 @@ const nav = [
 
 export default function Sidebar() {
   const pathname = usePathname()
+  const { folderName, loading, error, selectFolder, reset } = useDashboardData()
+
   return (
     <aside className="w-56 shrink-0 border-r border-gray-200 bg-white flex flex-col">
       {/* 로고 */}
@@ -55,8 +54,60 @@ export default function Sidebar() {
         })}
       </nav>
 
+      {/* 데이터 소스 패널 */}
+      <div className="px-3 py-4 border-t border-gray-100 space-y-2">
+        <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide px-2">데이터 소스</p>
+
+        {/* 현재 소스 표시 */}
+        <div className={cn(
+          'rounded-lg px-3 py-2 text-xs',
+          folderName
+            ? 'bg-emerald-50 border border-emerald-200'
+            : error
+              ? 'bg-red-50 border border-red-200'
+              : 'bg-gray-50 border border-gray-200'
+        )}>
+          {loading ? (
+            <span className="flex items-center gap-1.5 text-gray-500">
+              <Loader2 size={12} className="animate-spin" /> 파일 읽는 중...
+            </span>
+          ) : folderName ? (
+            <span className="flex items-start gap-1.5 text-emerald-700">
+              <CheckCircle2 size={12} className="mt-0.5 shrink-0" />
+              <span className="break-all leading-tight">{folderName}</span>
+            </span>
+          ) : error ? (
+            <span className="text-red-600 leading-tight break-words">오류 발생</span>
+          ) : (
+            <span className="text-gray-400">기본 데이터 (v10)</span>
+          )}
+        </div>
+
+        {/* 폴더 선택 버튼 */}
+        <button
+          onClick={selectFolder}
+          disabled={loading}
+          className="w-full flex items-center justify-center gap-2 px-3 py-2 rounded-lg bg-pink-500 text-white text-xs font-medium hover:bg-pink-600 disabled:opacity-50 transition-colors"
+        >
+          {loading
+            ? <><Loader2 size={12} className="animate-spin" /> 처리 중...</>
+            : <><FolderOpen size={12} /> 폴더 선택</>
+          }
+        </button>
+
+        {/* 기본 데이터로 초기화 */}
+        {folderName && (
+          <button
+            onClick={reset}
+            className="w-full flex items-center justify-center gap-2 px-3 py-1.5 rounded-lg border border-gray-200 text-gray-500 text-xs hover:bg-gray-50 transition-colors"
+          >
+            <RotateCcw size={11} /> 기본 데이터로
+          </button>
+        )}
+      </div>
+
       {/* 하단 */}
-      <div className="px-5 py-4 border-t border-gray-100">
+      <div className="px-5 py-3 border-t border-gray-100">
         <p className="text-xs text-gray-400">여성부문 MD 대시보드</p>
       </div>
     </aside>
