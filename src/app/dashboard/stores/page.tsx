@@ -1,28 +1,14 @@
 import StoreCategoryTable from '@/components/StoreCategoryTable'
-import type { StoreCategoryRatio } from '@/lib/supabase/types'
+import rawData from '@/data/dashboard-data.json'
 
-interface SearchParams { distributor?: string; region?: string }
+interface SearchParams { distributor?: string }
 
-// TODO: Supabase 연결 후 실제 쿼리로 교체
-const MOCK_DATA: StoreCategoryRatio[] = [
-  { store_id:'1', store_name:'현대 판교점', distributor_name:'현대', category_name:'영여성', brand_count:42, ratio_pct:34.1 },
-  { store_id:'1', store_name:'현대 판교점', distributor_name:'현대', category_name:'여성', brand_count:28, ratio_pct:22.8 },
-  { store_id:'1', store_name:'현대 판교점', distributor_name:'현대', category_name:'잡화', brand_count:23, ratio_pct:18.7 },
-  { store_id:'1', store_name:'현대 판교점', distributor_name:'현대', category_name:'스포츠/아웃도어', brand_count:18, ratio_pct:14.6 },
-  { store_id:'1', store_name:'현대 판교점', distributor_name:'현대', category_name:'기타', brand_count:12, ratio_pct:9.8 },
-  { store_id:'2', store_name:'롯데 본점', distributor_name:'롯데', category_name:'영여성', brand_count:38, ratio_pct:24.5 },
-  { store_id:'2', store_name:'롯데 본점', distributor_name:'롯데', category_name:'잡화', brand_count:44, ratio_pct:28.4 },
-  { store_id:'2', store_name:'롯데 본점', distributor_name:'롯데', category_name:'여성', brand_count:30, ratio_pct:19.4 },
-  { store_id:'2', store_name:'롯데 본점', distributor_name:'롯데', category_name:'스포츠/아웃도어', brand_count:22, ratio_pct:14.2 },
-  { store_id:'2', store_name:'롯데 본점', distributor_name:'롯데', category_name:'기타', brand_count:21, ratio_pct:13.5 },
-  { store_id:'3', store_name:'신세계 강남점', distributor_name:'신세계', category_name:'컨템포러리', brand_count:55, ratio_pct:32.0 },
-  { store_id:'3', store_name:'신세계 강남점', distributor_name:'신세계', category_name:'잡화', brand_count:46, ratio_pct:26.7 },
-  { store_id:'3', store_name:'신세계 강남점', distributor_name:'신세계', category_name:'영여성', brand_count:35, ratio_pct:20.3 },
-  { store_id:'3', store_name:'신세계 강남점', distributor_name:'신세계', category_name:'여성', brand_count:26, ratio_pct:15.1 },
-  { store_id:'3', store_name:'신세계 강남점', distributor_name:'신세계', category_name:'기타', brand_count:10, ratio_pct:5.8 },
-]
+const ALL_ROWS = rawData.storeRatioData as {
+  distributor_name: string; store_name: string;
+  category_name: string; brand_count: number; ratio_pct: number
+}[]
 
-const DISTRIBUTORS = [{ name: '현대' }, { name: '롯데' }, { name: '신세계' }, { name: 'AK' }, { name: '갤러리아' }]
+const DISTRIBUTORS = [...new Set(ALL_ROWS.map(r => r.distributor_name))].map(n => ({ name: n }))
 
 export default async function StoresPage({
   searchParams,
@@ -30,10 +16,9 @@ export default async function StoresPage({
   searchParams: Promise<SearchParams>
 }) {
   const params = await searchParams
-  const distributors = DISTRIBUTORS
   const data = params.distributor
-    ? MOCK_DATA.filter(d => d.distributor_name === params.distributor)
-    : MOCK_DATA
+    ? ALL_ROWS.filter(d => d.distributor_name === params.distributor)
+    : ALL_ROWS
 
   return (
     <div className="space-y-6">
@@ -54,7 +39,7 @@ export default async function StoresPage({
         >
           전체
         </a>
-        {distributors?.map(d => (
+        {DISTRIBUTORS?.map(d => (
           <a
             key={d.name}
             href={`/dashboard/stores?distributor=${d.name}`}

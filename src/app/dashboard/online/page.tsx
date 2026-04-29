@@ -1,11 +1,13 @@
-// TODO: Supabase 연결 후 실제 쿼리로 교체
+// 온라인 채널 데이터: Supabase 연결 전 임시 (실제 브랜드 조사 필요)
+// 현재 오프라인 입점 카테고리 분포 기반으로 추정
 const MOCK_CROSS = [
-  { category: '영여성',         total: 412, musinsa: 142, zigzag: 89, cm29: 167, wconcept: 54 },
-  { category: '여성',           total: 310, musinsa: 98,  zigzag: 71, cm29: 121, wconcept: 43 },
-  { category: '컨템포러리',     total: 188, musinsa: 22,  zigzag: 18, cm29: 41,  wconcept: 12 },
-  { category: '잡화',           total: 241, musinsa: 58,  zigzag: 34, cm29: 82,  wconcept: 29 },
-  { category: '스포츠/아웃도어',total: 198, musinsa: 87,  zigzag: 62, cm29: 94,  wconcept: 31 },
-  { category: '남성',           total: 156, musinsa: 71,  zigzag: 48, cm29: 63,  wconcept: 19 },
+  { category: '영여성',         total: 6639, musinsa: 312, zigzag: 198, cm29: 287, wconcept: 134 },
+  { category: '잡화',           total: 6487, musinsa: 142, zigzag: 89,  cm29: 167, wconcept: 54  },
+  { category: '스포츠/아웃도어',total: 3033, musinsa: 198, zigzag: 145, cm29: 178, wconcept: 67  },
+  { category: '아동',           total: 2823, musinsa: 87,  zigzag: 143, cm29: 96,  wconcept: 31  },
+  { category: '남성',           total: 2508, musinsa: 156, zigzag: 98,  cm29: 134, wconcept: 48  },
+  { category: '캐주얼',         total: 2284, musinsa: 234, zigzag: 187, cm29: 198, wconcept: 89  },
+  { category: '골프',           total: 1534, musinsa: 43,  zigzag: 28,  cm29: 56,  wconcept: 19  },
 ]
 
 const CHANNELS = [

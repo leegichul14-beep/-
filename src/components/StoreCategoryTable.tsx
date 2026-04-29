@@ -1,14 +1,20 @@
 'use client'
 
-import { StoreCategoryRatio } from '@/lib/supabase/types'
+interface Row {
+  distributor_name: string
+  store_name: string
+  category_name: string | null
+  brand_count: number
+  ratio_pct: number
+}
 
 interface Props {
-  data: StoreCategoryRatio[]
+  data: Row[]
 }
 
 export default function StoreCategoryTable({ data }: Props) {
   // 점포별로 그룹핑
-  const storeMap = new Map<string, StoreCategoryRatio[]>()
+  const storeMap = new Map<string, Row[]>()
   for (const row of data) {
     const key = row.store_name
     if (!storeMap.has(key)) storeMap.set(key, [])
@@ -39,7 +45,7 @@ export default function StoreCategoryTable({ data }: Props) {
         <tbody>
           {Array.from(storeMap.entries()).map(([storeName, rows]) =>
             rows.map((row, i) => (
-              <tr key={`${storeName}-${i}`} className="border-b border-gray-50 hover:bg-gray-50 transition-colors">
+              <tr key={`${storeName}-${row.category_name}-${i}`} className="border-b border-gray-50 hover:bg-gray-50 transition-colors">
                 {i === 0 && (
                   <td
                     className="px-4 py-2.5 text-gray-500 align-top"

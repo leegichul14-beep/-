@@ -1,0 +1,3723 @@
+{
+  "meta": {
+    "totalRecords": 39712,
+    "mappedRecords": 31875,
+    "unmappedRecords": 7837,
+    "totalStores": 118,
+    "totalBrands": 9455,
+    "generatedAt": "2026-04-29T04:09:21.073Z"
+  },
+  "distSummary": [
+    {
+      "name": "현대",
+      "total": 6503,
+      "mapped": 4677,
+      "unmapped": 1826,
+      "storeCount": 15,
+      "mappedPct": 72
+    },
+    {
+      "name": "롯데",
+      "total": 16834,
+      "mapped": 14252,
+      "unmapped": 2582,
+      "storeCount": 46,
+      "mappedPct": 85
+    },
+    {
+      "name": "신세계",
+      "total": 9645,
+      "mapped": 7293,
+      "unmapped": 2352,
+      "storeCount": 26,
+      "mappedPct": 76
+    },
+    {
+      "name": "아이파크몰",
+      "total": 287,
+      "mapped": 139,
+      "unmapped": 148,
+      "storeCount": 1,
+      "mappedPct": 48
+    },
+    {
+      "name": "이랜드리테일",
+      "total": 6443,
+      "mapped": 5514,
+      "unmapped": 929,
+      "storeCount": 43,
+      "mappedPct": 86
+    }
+  ],
+  "majorData": [
+    {
+      "name": "잡화",
+      "count": 6452
+    },
+    {
+      "name": "영여성",
+      "count": 6126
+    },
+    {
+      "name": "서비스/기타",
+      "count": 4414
+    },
+    {
+      "name": "스포츠/아웃도어",
+      "count": 3007
+    },
+    {
+      "name": "아동",
+      "count": 2479
+    },
+    {
+      "name": "남성",
+      "count": 2438
+    },
+    {
+      "name": "캐주얼",
+      "count": 2164
+    },
+    {
+      "name": "리빙",
+      "count": 2153
+    },
+    {
+      "name": "골프",
+      "count": 1524
+    },
+    {
+      "name": "[PB] 영여성",
+      "count": 513
+    },
+    {
+      "name": "[PB] 아동",
+      "count": 344
+    },
+    {
+      "name": "[PB] 캐주얼",
+      "count": 120
+    },
+    {
+      "name": "[PB] 남성",
+      "count": 70
+    },
+    {
+      "name": "[PB] 잡화",
+      "count": 35
+    },
+    {
+      "name": "[PB] 스포츠/아웃도어",
+      "count": 26
+    },
+    {
+      "name": "[PB] 골프",
+      "count": 10
+    }
+  ],
+  "crossTable": [
+    {
+      "major": "잡화",
+      "total": 6452,
+      "현대": 1322,
+      "롯데": 2622,
+      "신세계": 1967,
+      "아이파크몰": 15,
+      "이랜드리테일": 526
+    },
+    {
+      "major": "영여성",
+      "total": 6126,
+      "현대": 873,
+      "롯데": 2773,
+      "신세계": 1109,
+      "아이파크몰": 6,
+      "이랜드리테일": 1365
+    },
+    {
+      "major": "서비스/기타",
+      "total": 4414,
+      "현대": 650,
+      "롯데": 2510,
+      "신세계": 904,
+      "아이파크몰": 29,
+      "이랜드리테일": 321
+    },
+    {
+      "major": "스포츠/아웃도어",
+      "total": 3007,
+      "현대": 300,
+      "롯데": 1504,
+      "신세계": 687,
+      "아이파크몰": 23,
+      "이랜드리테일": 493
+    },
+    {
+      "major": "아동",
+      "total": 2479,
+      "현대": 274,
+      "롯데": 970,
+      "신세계": 586,
+      "아이파크몰": 15,
+      "이랜드리테일": 634
+    },
+    {
+      "major": "남성",
+      "total": 2438,
+      "현대": 385,
+      "롯데": 1075,
+      "신세계": 562,
+      "아이파크몰": 11,
+      "이랜드리테일": 405
+    },
+    {
+      "major": "캐주얼",
+      "total": 2164,
+      "현대": 284,
+      "롯데": 837,
+      "신세계": 601,
+      "아이파크몰": 24,
+      "이랜드리테일": 418
+    },
+    {
+      "major": "리빙",
+      "total": 2153,
+      "현대": 366,
+      "롯데": 1184,
+      "신세계": 542,
+      "아이파크몰": 7,
+      "이랜드리테일": 54
+    },
+    {
+      "major": "골프",
+      "total": 1524,
+      "현대": 223,
+      "롯데": 777,
+      "신세계": 335,
+      "아이파크몰": 9,
+      "이랜드리테일": 180
+    },
+    {
+      "major": "[PB] 영여성",
+      "total": 513,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 513
+    },
+    {
+      "major": "[PB] 아동",
+      "total": 344,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 344
+    },
+    {
+      "major": "[PB] 캐주얼",
+      "total": 120,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 120
+    },
+    {
+      "major": "[PB] 남성",
+      "total": 70,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 70
+    },
+    {
+      "major": "[PB] 잡화",
+      "total": 35,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 35
+    },
+    {
+      "major": "[PB] 스포츠/아웃도어",
+      "total": 26,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 26
+    },
+    {
+      "major": "[PB] 골프",
+      "total": 10,
+      "현대": 0,
+      "롯데": 0,
+      "신세계": 0,
+      "아이파크몰": 0,
+      "이랜드리테일": 10
+    }
+  ],
+  "storeRatioData": [
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "잡화",
+      "brand_count": 161,
+      "ratio_pct": 26
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "영여성",
+      "brand_count": 114,
+      "ratio_pct": 18.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "서비스/기타",
+      "brand_count": 75,
+      "ratio_pct": 12.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "리빙",
+      "brand_count": 66,
+      "ratio_pct": 10.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 58,
+      "ratio_pct": 9.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "남성",
+      "brand_count": 47,
+      "ratio_pct": 7.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "아동",
+      "brand_count": 43,
+      "ratio_pct": 6.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "골프",
+      "brand_count": 32,
+      "ratio_pct": 5.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "잠실점",
+      "category_name": "캐주얼",
+      "brand_count": 24,
+      "ratio_pct": 3.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "잡화",
+      "brand_count": 133,
+      "ratio_pct": 21.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "서비스/기타",
+      "brand_count": 111,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "영여성",
+      "brand_count": 108,
+      "ratio_pct": 17.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "리빙",
+      "brand_count": 57,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 57,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "남성",
+      "brand_count": 42,
+      "ratio_pct": 6.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "캐주얼",
+      "brand_count": 38,
+      "ratio_pct": 6.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "아동",
+      "brand_count": 37,
+      "ratio_pct": 6.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "부산본점",
+      "category_name": "골프",
+      "brand_count": 27,
+      "ratio_pct": 4.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "잡화",
+      "brand_count": 224,
+      "ratio_pct": 38.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "영여성",
+      "brand_count": 75,
+      "ratio_pct": 12.9
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "남성",
+      "brand_count": 51,
+      "ratio_pct": 8.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "서비스/기타",
+      "brand_count": 49,
+      "ratio_pct": 8.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 48,
+      "ratio_pct": 8.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "리빙",
+      "brand_count": 45,
+      "ratio_pct": 7.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "아동",
+      "brand_count": 43,
+      "ratio_pct": 7.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "캐주얼",
+      "brand_count": 24,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "강남점",
+      "category_name": "골프",
+      "brand_count": 24,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "잡화",
+      "brand_count": 208,
+      "ratio_pct": 35.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "영여성",
+      "brand_count": 95,
+      "ratio_pct": 16.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "서비스/기타",
+      "brand_count": 69,
+      "ratio_pct": 11.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "리빙",
+      "brand_count": 53,
+      "ratio_pct": 9.1
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "남성",
+      "brand_count": 50,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "캐주얼",
+      "brand_count": 41,
+      "ratio_pct": 7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "아동",
+      "brand_count": 36,
+      "ratio_pct": 6.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "골프",
+      "brand_count": 21,
+      "ratio_pct": 3.6
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "센텀시티",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 10,
+      "ratio_pct": 1.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "잡화",
+      "brand_count": 201,
+      "ratio_pct": 36.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "서비스/기타",
+      "brand_count": 89,
+      "ratio_pct": 16.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "영여성",
+      "brand_count": 71,
+      "ratio_pct": 13.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "리빙",
+      "brand_count": 47,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "남성",
+      "brand_count": 39,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 36,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "아동",
+      "brand_count": 25,
+      "ratio_pct": 4.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "골프",
+      "brand_count": 20,
+      "ratio_pct": 3.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "본점",
+      "category_name": "캐주얼",
+      "brand_count": 16,
+      "ratio_pct": 2.9
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "잡화",
+      "brand_count": 158,
+      "ratio_pct": 29.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "서비스/기타",
+      "brand_count": 90,
+      "ratio_pct": 16.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "영여성",
+      "brand_count": 81,
+      "ratio_pct": 15
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "리빙",
+      "brand_count": 47,
+      "ratio_pct": 8.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "남성",
+      "brand_count": 42,
+      "ratio_pct": 7.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 40,
+      "ratio_pct": 7.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "아동",
+      "brand_count": 39,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "캐주얼",
+      "brand_count": 24,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대구신세계",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 3.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "잡화",
+      "brand_count": 160,
+      "ratio_pct": 32.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "영여성",
+      "brand_count": 65,
+      "ratio_pct": 13.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "서비스/기타",
+      "brand_count": 55,
+      "ratio_pct": 11.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 50,
+      "ratio_pct": 10.1
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "리빙",
+      "brand_count": 41,
+      "ratio_pct": 8.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "캐주얼",
+      "brand_count": 37,
+      "ratio_pct": 7.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "아동",
+      "brand_count": 33,
+      "ratio_pct": 6.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "남성",
+      "brand_count": 32,
+      "ratio_pct": 6.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "대전신세계",
+      "category_name": "골프",
+      "brand_count": 20,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "잡화",
+      "brand_count": 134,
+      "ratio_pct": 27.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "서비스/기타",
+      "brand_count": 87,
+      "ratio_pct": 18.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "영여성",
+      "brand_count": 67,
+      "ratio_pct": 13.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "리빙",
+      "brand_count": 52,
+      "ratio_pct": 10.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 42,
+      "ratio_pct": 8.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "남성",
+      "brand_count": 32,
+      "ratio_pct": 6.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "아동",
+      "brand_count": 27,
+      "ratio_pct": 5.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "골프",
+      "brand_count": 21,
+      "ratio_pct": 4.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "인천점",
+      "category_name": "캐주얼",
+      "brand_count": 19,
+      "ratio_pct": 4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "잡화",
+      "brand_count": 144,
+      "ratio_pct": 31.1
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "영여성",
+      "brand_count": 73,
+      "ratio_pct": 15.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "서비스/기타",
+      "brand_count": 59,
+      "ratio_pct": 12.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "리빙",
+      "brand_count": 43,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "남성",
+      "brand_count": 41,
+      "ratio_pct": 8.9
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "아동",
+      "brand_count": 34,
+      "ratio_pct": 7.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "캐주얼",
+      "brand_count": 29,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "골프",
+      "brand_count": 21,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "신세계 사우스시티",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 19,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "영여성",
+      "brand_count": 102,
+      "ratio_pct": 23.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "서비스/기타",
+      "brand_count": 88,
+      "ratio_pct": 19.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "잡화",
+      "brand_count": 61,
+      "ratio_pct": 13.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 48,
+      "ratio_pct": 10.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "리빙",
+      "brand_count": 36,
+      "ratio_pct": 8.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "아동",
+      "brand_count": 32,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "캐주얼",
+      "brand_count": 29,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "남성",
+      "brand_count": 28,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "구리점",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "잡화",
+      "brand_count": 155,
+      "ratio_pct": 35.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "영여성",
+      "brand_count": 61,
+      "ratio_pct": 13.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "리빙",
+      "brand_count": 43,
+      "ratio_pct": 9.8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "캐주얼",
+      "brand_count": 35,
+      "ratio_pct": 8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "남성",
+      "brand_count": 35,
+      "ratio_pct": 8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "서비스/기타",
+      "brand_count": 33,
+      "ratio_pct": 7.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "아동",
+      "brand_count": 29,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 27,
+      "ratio_pct": 6.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 판교점",
+      "category_name": "골프",
+      "brand_count": 21,
+      "ratio_pct": 4.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "잡화",
+      "brand_count": 106,
+      "ratio_pct": 24.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "서비스/기타",
+      "brand_count": 79,
+      "ratio_pct": 18.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "영여성",
+      "brand_count": 68,
+      "ratio_pct": 15.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 40,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "리빙",
+      "brand_count": 36,
+      "ratio_pct": 8.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "아동",
+      "brand_count": 31,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "캐주얼",
+      "brand_count": 30,
+      "ratio_pct": 6.9
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "남성",
+      "brand_count": 27,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "의정부점",
+      "category_name": "골프",
+      "brand_count": 15,
+      "ratio_pct": 3.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "영여성",
+      "brand_count": 100,
+      "ratio_pct": 23.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "잡화",
+      "brand_count": 76,
+      "ratio_pct": 17.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "서비스/기타",
+      "brand_count": 68,
+      "ratio_pct": 15.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "리빙",
+      "brand_count": 44,
+      "ratio_pct": 10.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 41,
+      "ratio_pct": 9.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "아동",
+      "brand_count": 30,
+      "ratio_pct": 7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "남성",
+      "brand_count": 26,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "골프",
+      "brand_count": 23,
+      "ratio_pct": 5.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "영등포점",
+      "category_name": "캐주얼",
+      "brand_count": 22,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "잡화",
+      "brand_count": 97,
+      "ratio_pct": 22.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "서비스/기타",
+      "brand_count": 96,
+      "ratio_pct": 22.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "영여성",
+      "brand_count": 56,
+      "ratio_pct": 13.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "리빙",
+      "brand_count": 55,
+      "ratio_pct": 12.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "아동",
+      "brand_count": 32,
+      "ratio_pct": 7.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 31,
+      "ratio_pct": 7.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "남성",
+      "brand_count": 22,
+      "ratio_pct": 5.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "골프",
+      "brand_count": 19,
+      "ratio_pct": 4.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동탄점",
+      "category_name": "캐주얼",
+      "brand_count": 19,
+      "ratio_pct": 4.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "영여성",
+      "brand_count": 77,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "잡화",
+      "brand_count": 77,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "서비스/기타",
+      "brand_count": 76,
+      "ratio_pct": 18
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "리빙",
+      "brand_count": 49,
+      "ratio_pct": 11.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 42,
+      "ratio_pct": 10
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "아동",
+      "brand_count": 32,
+      "ratio_pct": 7.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "남성",
+      "brand_count": 27,
+      "ratio_pct": 6.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "캐주얼",
+      "brand_count": 22,
+      "ratio_pct": 5.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "평촌점",
+      "category_name": "골프",
+      "brand_count": 20,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "잡화",
+      "brand_count": 182,
+      "ratio_pct": 45.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "영여성",
+      "brand_count": 51,
+      "ratio_pct": 12.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "서비스/기타",
+      "brand_count": 46,
+      "ratio_pct": 11.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "남성",
+      "brand_count": 27,
+      "ratio_pct": 6.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "리빙",
+      "brand_count": 25,
+      "ratio_pct": 6.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "골프",
+      "brand_count": 19,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 17,
+      "ratio_pct": 4.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 무역센터점",
+      "category_name": "아동",
+      "brand_count": 16,
+      "ratio_pct": 4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "잡화",
+      "brand_count": 113,
+      "ratio_pct": 28.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "영여성",
+      "brand_count": 70,
+      "ratio_pct": 17.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "서비스/기타",
+      "brand_count": 56,
+      "ratio_pct": 14.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "남성",
+      "brand_count": 40,
+      "ratio_pct": 10.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "리빙",
+      "brand_count": 33,
+      "ratio_pct": 8.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "캐주얼",
+      "brand_count": 25,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 21,
+      "ratio_pct": 5.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "아동",
+      "brand_count": 21,
+      "ratio_pct": 5.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 대구",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "서비스/기타",
+      "brand_count": 72,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "영여성",
+      "brand_count": 72,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "잡화",
+      "brand_count": 55,
+      "ratio_pct": 13.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "리빙",
+      "brand_count": 48,
+      "ratio_pct": 12.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 41,
+      "ratio_pct": 10.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "아동",
+      "brand_count": 36,
+      "ratio_pct": 9.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "남성",
+      "brand_count": 35,
+      "ratio_pct": 8.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "골프",
+      "brand_count": 20,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광복점",
+      "category_name": "캐주얼",
+      "brand_count": 16,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "잡화",
+      "brand_count": 81,
+      "ratio_pct": 20.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "영여성",
+      "brand_count": 70,
+      "ratio_pct": 18
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "서비스/기타",
+      "brand_count": 68,
+      "ratio_pct": 17.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "리빙",
+      "brand_count": 44,
+      "ratio_pct": 11.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 38,
+      "ratio_pct": 9.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "남성",
+      "brand_count": 25,
+      "ratio_pct": 6.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "캐주얼",
+      "brand_count": 22,
+      "ratio_pct": 5.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "아동",
+      "brand_count": 21,
+      "ratio_pct": 5.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "노원점",
+      "category_name": "골프",
+      "brand_count": 19,
+      "ratio_pct": 4.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "영여성",
+      "brand_count": 79,
+      "ratio_pct": 20.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "잡화",
+      "brand_count": 76,
+      "ratio_pct": 20
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "서비스/기타",
+      "brand_count": 75,
+      "ratio_pct": 19.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "리빙",
+      "brand_count": 36,
+      "ratio_pct": 9.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 30,
+      "ratio_pct": 7.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "남성",
+      "brand_count": 26,
+      "ratio_pct": 6.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "캐주얼",
+      "brand_count": 22,
+      "ratio_pct": 5.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대구점",
+      "category_name": "아동",
+      "brand_count": 18,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "영여성",
+      "brand_count": 95,
+      "ratio_pct": 25.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "잡화",
+      "brand_count": 87,
+      "ratio_pct": 23
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "서비스/기타",
+      "brand_count": 46,
+      "ratio_pct": 12.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 31,
+      "ratio_pct": 8.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "리빙",
+      "brand_count": 28,
+      "ratio_pct": 7.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "남성",
+      "brand_count": 28,
+      "ratio_pct": 7.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "캐주얼",
+      "brand_count": 27,
+      "ratio_pct": 7.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "아동",
+      "brand_count": 20,
+      "ratio_pct": 5.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 천호점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "잡화",
+      "brand_count": 113,
+      "ratio_pct": 29.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "영여성",
+      "brand_count": 72,
+      "ratio_pct": 19
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "서비스/기타",
+      "brand_count": 51,
+      "ratio_pct": 13.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "리빙",
+      "brand_count": 38,
+      "ratio_pct": 10
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "남성",
+      "brand_count": 31,
+      "ratio_pct": 8.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "아동",
+      "brand_count": 29,
+      "ratio_pct": 7.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 17,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "광주신세계",
+      "category_name": "캐주얼",
+      "brand_count": 10,
+      "ratio_pct": 2.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "잡화",
+      "brand_count": 77,
+      "ratio_pct": 20.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "영여성",
+      "brand_count": 75,
+      "ratio_pct": 20.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "서비스/기타",
+      "brand_count": 64,
+      "ratio_pct": 17.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "리빙",
+      "brand_count": 48,
+      "ratio_pct": 12.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "남성",
+      "brand_count": 32,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 27,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "아동",
+      "brand_count": 21,
+      "ratio_pct": 5.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "광주점",
+      "category_name": "캐주얼",
+      "brand_count": 13,
+      "ratio_pct": 3.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "서비스/기타",
+      "brand_count": 86,
+      "ratio_pct": 23
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "잡화",
+      "brand_count": 69,
+      "ratio_pct": 18.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "영여성",
+      "brand_count": 60,
+      "ratio_pct": 16
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "리빙",
+      "brand_count": 38,
+      "ratio_pct": 10.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 32,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "아동",
+      "brand_count": 29,
+      "ratio_pct": 7.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "남성",
+      "brand_count": 23,
+      "ratio_pct": 6.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 5.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "울산점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "영여성",
+      "brand_count": 76,
+      "ratio_pct": 20.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "서비스/기타",
+      "brand_count": 68,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "잡화",
+      "brand_count": 68,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "리빙",
+      "brand_count": 39,
+      "ratio_pct": 10.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 32,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "남성",
+      "brand_count": 29,
+      "ratio_pct": 7.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "아동",
+      "brand_count": 23,
+      "ratio_pct": 6.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "캐주얼",
+      "brand_count": 21,
+      "ratio_pct": 5.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "청량리점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 4.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "영여성",
+      "brand_count": 81,
+      "ratio_pct": 22.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "서비스/기타",
+      "brand_count": 66,
+      "ratio_pct": 18
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "잡화",
+      "brand_count": 60,
+      "ratio_pct": 16.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "리빙",
+      "brand_count": 38,
+      "ratio_pct": 10.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 34,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "아동",
+      "brand_count": 31,
+      "ratio_pct": 8.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "남성",
+      "brand_count": 22,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 4.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "중동점",
+      "category_name": "캐주얼",
+      "brand_count": 17,
+      "ratio_pct": 4.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "잡화",
+      "brand_count": 80,
+      "ratio_pct": 22.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "영여성",
+      "brand_count": 71,
+      "ratio_pct": 19.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "서비스/기타",
+      "brand_count": 51,
+      "ratio_pct": 14.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 31,
+      "ratio_pct": 8.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "캐주얼",
+      "brand_count": 28,
+      "ratio_pct": 7.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "아동",
+      "brand_count": 27,
+      "ratio_pct": 7.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "리빙",
+      "brand_count": 26,
+      "ratio_pct": 7.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "남성",
+      "brand_count": 24,
+      "ratio_pct": 6.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 울산점",
+      "category_name": "골프",
+      "brand_count": 18,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "영여성",
+      "brand_count": 78,
+      "ratio_pct": 22.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "서비스/기타",
+      "brand_count": 65,
+      "ratio_pct": 18.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "잡화",
+      "brand_count": 57,
+      "ratio_pct": 16.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 36,
+      "ratio_pct": 10.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "리빙",
+      "brand_count": 30,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "아동",
+      "brand_count": 25,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "남성",
+      "brand_count": 23,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "캐주얼",
+      "brand_count": 19,
+      "ratio_pct": 5.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "대전점",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 4.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "영여성",
+      "brand_count": 73,
+      "ratio_pct": 20.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "잡화",
+      "brand_count": 69,
+      "ratio_pct": 19.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "서비스/기타",
+      "brand_count": 48,
+      "ratio_pct": 13.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 42,
+      "ratio_pct": 12
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "남성",
+      "brand_count": 36,
+      "ratio_pct": 10.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "캐주얼",
+      "brand_count": 33,
+      "ratio_pct": 9.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "골프",
+      "brand_count": 28,
+      "ratio_pct": 8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동부산점",
+      "category_name": "아동",
+      "brand_count": 20,
+      "ratio_pct": 5.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "잡화",
+      "brand_count": 72,
+      "ratio_pct": 20.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "영여성",
+      "brand_count": 65,
+      "ratio_pct": 18.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "서비스/기타",
+      "brand_count": 64,
+      "ratio_pct": 18.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "리빙",
+      "brand_count": 48,
+      "ratio_pct": 13.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "남성",
+      "brand_count": 33,
+      "ratio_pct": 9.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "아동",
+      "brand_count": 26,
+      "ratio_pct": 7.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "골프",
+      "brand_count": 15,
+      "ratio_pct": 4.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 15,
+      "ratio_pct": 4.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "창원점",
+      "category_name": "캐주얼",
+      "brand_count": 10,
+      "ratio_pct": 2.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "잡화",
+      "brand_count": 73,
+      "ratio_pct": 21.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "영여성",
+      "brand_count": 65,
+      "ratio_pct": 19
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "서비스/기타",
+      "brand_count": 57,
+      "ratio_pct": 16.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "리빙",
+      "brand_count": 37,
+      "ratio_pct": 10.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 33,
+      "ratio_pct": 9.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "남성",
+      "brand_count": 26,
+      "ratio_pct": 7.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "캐주얼",
+      "brand_count": 19,
+      "ratio_pct": 5.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "아동",
+      "brand_count": 17,
+      "ratio_pct": 5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "전주점",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "영여성",
+      "brand_count": 71,
+      "ratio_pct": 20.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "서비스/기타",
+      "brand_count": 61,
+      "ratio_pct": 17.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "잡화",
+      "brand_count": 61,
+      "ratio_pct": 17.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 34,
+      "ratio_pct": 9.9
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "리빙",
+      "brand_count": 33,
+      "ratio_pct": 9.6
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "캐주얼",
+      "brand_count": 24,
+      "ratio_pct": 7
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "아동",
+      "brand_count": 22,
+      "ratio_pct": 6.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "남성",
+      "brand_count": 19,
+      "ratio_pct": 5.6
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "마산점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "잡화",
+      "brand_count": 73,
+      "ratio_pct": 21.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "영여성",
+      "brand_count": 68,
+      "ratio_pct": 19.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "서비스/기타",
+      "brand_count": 63,
+      "ratio_pct": 18.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 33,
+      "ratio_pct": 9.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "남성",
+      "brand_count": 30,
+      "ratio_pct": 8.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "리빙",
+      "brand_count": 30,
+      "ratio_pct": 8.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "아동",
+      "brand_count": 21,
+      "ratio_pct": 6.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "캐주얼",
+      "brand_count": 14,
+      "ratio_pct": 4.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "일산점",
+      "category_name": "골프",
+      "brand_count": 9,
+      "ratio_pct": 2.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "영여성",
+      "brand_count": 84,
+      "ratio_pct": 25.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "서비스/기타",
+      "brand_count": 71,
+      "ratio_pct": 21.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "잡화",
+      "brand_count": 44,
+      "ratio_pct": 13.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "리빙",
+      "brand_count": 31,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 31,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "남성",
+      "brand_count": 22,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "골프",
+      "brand_count": 15,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "미아점",
+      "category_name": "아동",
+      "brand_count": 15,
+      "ratio_pct": 4.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "영여성",
+      "brand_count": 82,
+      "ratio_pct": 24.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "서비스/기타",
+      "brand_count": 61,
+      "ratio_pct": 18.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "잡화",
+      "brand_count": 46,
+      "ratio_pct": 13.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "리빙",
+      "brand_count": 35,
+      "ratio_pct": 10.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 27,
+      "ratio_pct": 8.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "남성",
+      "brand_count": 22,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "아동",
+      "brand_count": 20,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "동래점",
+      "category_name": "골프",
+      "brand_count": 19,
+      "ratio_pct": 5.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "잡화",
+      "brand_count": 68,
+      "ratio_pct": 20.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "영여성",
+      "brand_count": 60,
+      "ratio_pct": 18.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "서비스/기타",
+      "brand_count": 57,
+      "ratio_pct": 17.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "아동",
+      "brand_count": 30,
+      "ratio_pct": 9.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "리빙",
+      "brand_count": 29,
+      "ratio_pct": 8.8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 27,
+      "ratio_pct": 8.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "남성",
+      "brand_count": 22,
+      "ratio_pct": 6.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "캐주얼",
+      "brand_count": 21,
+      "ratio_pct": 6.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 충청점",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 4.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "잡화",
+      "brand_count": 113,
+      "ratio_pct": 34.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "서비스/기타",
+      "brand_count": 71,
+      "ratio_pct": 21.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "리빙",
+      "brand_count": 35,
+      "ratio_pct": 10.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "영여성",
+      "brand_count": 34,
+      "ratio_pct": 10.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "남성",
+      "brand_count": 21,
+      "ratio_pct": 6.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 19,
+      "ratio_pct": 5.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "아동",
+      "brand_count": 14,
+      "ratio_pct": 4.3
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "골프",
+      "brand_count": 11,
+      "ratio_pct": 3.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "본점",
+      "category_name": "캐주얼",
+      "brand_count": 7,
+      "ratio_pct": 2.2
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "잡화",
+      "brand_count": 71,
+      "ratio_pct": 21.9
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "영여성",
+      "brand_count": 48,
+      "ratio_pct": 14.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "서비스/기타",
+      "brand_count": 37,
+      "ratio_pct": 11.4
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "아동",
+      "brand_count": 36,
+      "ratio_pct": 11.1
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 35,
+      "ratio_pct": 10.8
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "리빙",
+      "brand_count": 31,
+      "ratio_pct": 9.6
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "캐주얼",
+      "brand_count": 28,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "남성",
+      "brand_count": 21,
+      "ratio_pct": 6.5
+    },
+    {
+      "distributor_name": "신세계",
+      "store_name": "김해점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 5.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "잡화",
+      "brand_count": 95,
+      "ratio_pct": 29.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "영여성",
+      "brand_count": 64,
+      "ratio_pct": 19.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "서비스/기타",
+      "brand_count": 45,
+      "ratio_pct": 14
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "남성",
+      "brand_count": 34,
+      "ratio_pct": 10.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "리빙",
+      "brand_count": 34,
+      "ratio_pct": 10.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "아동",
+      "brand_count": 24,
+      "ratio_pct": 7.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "캐주얼",
+      "brand_count": 7,
+      "ratio_pct": 2.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 목동점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 3,
+      "ratio_pct": 0.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "잡화",
+      "brand_count": 101,
+      "ratio_pct": 32.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "서비스/기타",
+      "brand_count": 48,
+      "ratio_pct": 15.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "영여성",
+      "brand_count": 39,
+      "ratio_pct": 12.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "남성",
+      "brand_count": 30,
+      "ratio_pct": 9.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "리빙",
+      "brand_count": 28,
+      "ratio_pct": 8.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 18,
+      "ratio_pct": 5.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "더현대 서울",
+      "category_name": "아동",
+      "brand_count": 15,
+      "ratio_pct": 4.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "영여성",
+      "brand_count": 73,
+      "ratio_pct": 23.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "서비스/기타",
+      "brand_count": 60,
+      "ratio_pct": 19.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "잡화",
+      "brand_count": 54,
+      "ratio_pct": 17.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "리빙",
+      "brand_count": 30,
+      "ratio_pct": 9.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 28,
+      "ratio_pct": 8.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "남성",
+      "brand_count": 25,
+      "ratio_pct": 8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "골프",
+      "brand_count": 17,
+      "ratio_pct": 5.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "캐주얼",
+      "brand_count": 16,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "강남점",
+      "category_name": "아동",
+      "brand_count": 11,
+      "ratio_pct": 3.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "영여성",
+      "brand_count": 85,
+      "ratio_pct": 27.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "잡화",
+      "brand_count": 72,
+      "ratio_pct": 23
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "서비스/기타",
+      "brand_count": 47,
+      "ratio_pct": 15
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "남성",
+      "brand_count": 27,
+      "ratio_pct": 8.6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "리빙",
+      "brand_count": 19,
+      "ratio_pct": 6.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "아동",
+      "brand_count": 17,
+      "ratio_pct": 5.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "캐주얼",
+      "brand_count": 17,
+      "ratio_pct": 5.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 신촌점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 13,
+      "ratio_pct": 4.2
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "잡화",
+      "brand_count": 72,
+      "ratio_pct": 23.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "영여성",
+      "brand_count": 64,
+      "ratio_pct": 20.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "서비스/기타",
+      "brand_count": 44,
+      "ratio_pct": 14.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "리빙",
+      "brand_count": 34,
+      "ratio_pct": 10.9
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "남성",
+      "brand_count": 25,
+      "ratio_pct": 8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 20,
+      "ratio_pct": 6.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "아동",
+      "brand_count": 20,
+      "ratio_pct": 6.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "캐주얼",
+      "brand_count": 17,
+      "ratio_pct": 5.4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 킨텍스점",
+      "category_name": "골프",
+      "brand_count": 16,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "잡화",
+      "brand_count": 79,
+      "ratio_pct": 25.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "영여성",
+      "brand_count": 40,
+      "ratio_pct": 12.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 38,
+      "ratio_pct": 12.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "리빙",
+      "brand_count": 36,
+      "ratio_pct": 11.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "서비스/기타",
+      "brand_count": 33,
+      "ratio_pct": 10.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "아동",
+      "brand_count": 31,
+      "ratio_pct": 10
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "골프",
+      "brand_count": 22,
+      "ratio_pct": 7.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "남성",
+      "brand_count": 21,
+      "ratio_pct": 6.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "수원점",
+      "category_name": "캐주얼",
+      "brand_count": 10,
+      "ratio_pct": 3.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "서비스/기타",
+      "brand_count": 77,
+      "ratio_pct": 25.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "잡화",
+      "brand_count": 56,
+      "ratio_pct": 18.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "영여성",
+      "brand_count": 52,
+      "ratio_pct": 17
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 29,
+      "ratio_pct": 9.5
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "남성",
+      "brand_count": 22,
+      "ratio_pct": 7.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "아동",
+      "brand_count": 21,
+      "ratio_pct": 6.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 6.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "리빙",
+      "brand_count": 18,
+      "ratio_pct": 5.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "건대스타시티점",
+      "category_name": "골프",
+      "brand_count": 10,
+      "ratio_pct": 3.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "서비스/기타",
+      "brand_count": 62,
+      "ratio_pct": 20.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "영여성",
+      "brand_count": 62,
+      "ratio_pct": 20.6
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "잡화",
+      "brand_count": 54,
+      "ratio_pct": 17.9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "리빙",
+      "brand_count": 28,
+      "ratio_pct": 9.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 27,
+      "ratio_pct": 9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "아동",
+      "brand_count": 19,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "캐주얼",
+      "brand_count": 19,
+      "ratio_pct": 6.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "남성",
+      "brand_count": 16,
+      "ratio_pct": 5.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "상인점",
+      "category_name": "골프",
+      "brand_count": 14,
+      "ratio_pct": 4.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "잡화",
+      "brand_count": 96,
+      "ratio_pct": 32
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "영여성",
+      "brand_count": 51,
+      "ratio_pct": 17
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "서비스/기타",
+      "brand_count": 45,
+      "ratio_pct": 15
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "남성",
+      "brand_count": 38,
+      "ratio_pct": 12.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "리빙",
+      "brand_count": 18,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "캐주얼",
+      "brand_count": 18,
+      "ratio_pct": 6
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 15,
+      "ratio_pct": 5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "골프",
+      "brand_count": 10,
+      "ratio_pct": 3.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 중동점",
+      "category_name": "아동",
+      "brand_count": 9,
+      "ratio_pct": 3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "영여성",
+      "brand_count": 59,
+      "ratio_pct": 19.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "서비스/기타",
+      "brand_count": 46,
+      "ratio_pct": 15.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 46,
+      "ratio_pct": 15.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "잡화",
+      "brand_count": 32,
+      "ratio_pct": 10.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "아동",
+      "brand_count": 29,
+      "ratio_pct": 9.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "남성",
+      "brand_count": 27,
+      "ratio_pct": 9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "골프",
+      "brand_count": 27,
+      "ratio_pct": 9
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "캐주얼",
+      "brand_count": 23,
+      "ratio_pct": 7.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "이천점",
+      "category_name": "리빙",
+      "brand_count": 10,
+      "ratio_pct": 3.3
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "서비스/기타",
+      "brand_count": 63,
+      "ratio_pct": 21.2
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "영여성",
+      "brand_count": 53,
+      "ratio_pct": 17.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "잡화",
+      "brand_count": 50,
+      "ratio_pct": 16.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "리빙",
+      "brand_count": 32,
+      "ratio_pct": 10.8
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 30,
+      "ratio_pct": 10.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "아동",
+      "brand_count": 22,
+      "ratio_pct": 7.4
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "캐주얼",
+      "brand_count": 20,
+      "ratio_pct": 6.7
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "남성",
+      "brand_count": 15,
+      "ratio_pct": 5.1
+    },
+    {
+      "distributor_name": "롯데",
+      "store_name": "포항점",
+      "category_name": "골프",
+      "brand_count": 12,
+      "ratio_pct": 4
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "영여성",
+      "brand_count": 61,
+      "ratio_pct": 20.7
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "잡화",
+      "brand_count": 57,
+      "ratio_pct": 19.3
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "서비스/기타",
+      "brand_count": 53,
+      "ratio_pct": 18
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "스포츠/아웃도어",
+      "brand_count": 25,
+      "ratio_pct": 8.5
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "리빙",
+      "brand_count": 23,
+      "ratio_pct": 7.8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "남성",
+      "brand_count": 23,
+      "ratio_pct": 7.8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "캐주얼",
+      "brand_count": 21,
+      "ratio_pct": 7.1
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "아동",
+      "brand_count": 20,
+      "ratio_pct": 6.8
+    },
+    {
+      "distributor_name": "현대",
+      "store_name": "현대 미아점",
+      "category_name": "골프",
+      "brand_count": 12,
+      "ratio_pct": 4.1
+    }
+  ],
+  "minorData": [
+    {
+      "major": "영여성",
+      "minor": "캐릭터",
+      "count": 2659
+    },
+    {
+      "major": "리빙",
+      "minor": "리빙",
+      "count": 2153
+    },
+    {
+      "major": "서비스/기타",
+      "minor": "서비스",
+      "count": 2108
+    },
+    {
+      "major": "잡화",
+      "minor": "뷰티",
+      "count": 1747
+    },
+    {
+      "major": "아동",
+      "minor": "아동",
+      "count": 1607
+    },
+    {
+      "major": "잡화",
+      "minor": "가방",
+      "count": 1554
+    },
+    {
+      "major": "골프",
+      "minor": "골프웨어",
+      "count": 1524
+    },
+    {
+      "major": "스포츠/아웃도어",
+      "minor": "스포츠",
+      "count": 1383
+    },
+    {
+      "major": "스포츠/아웃도어",
+      "minor": "아웃도어",
+      "count": 1361
+    },
+    {
+      "major": "잡화",
+      "minor": "명품",
+      "count": 1276
+    },
+    {
+      "major": "서비스/기타",
+      "minor": "F&B",
+      "count": 1206
+    },
+    {
+      "major": "영여성",
+      "minor": "캐주얼",
+      "count": 1134
+    },
+    {
+      "major": "서비스/기타",
+      "minor": "식품",
+      "count": 1100
+    },
+    {
+      "major": "남성",
+      "minor": "정장",
+      "count": 991
+    },
+    {
+      "major": "잡화",
+      "minor": "슈즈",
+      "count": 961
+    },
+    {
+      "major": "영여성",
+      "minor": "커리어",
+      "count": 949
+    },
+    {
+      "major": "캐주얼",
+      "minor": "캐주얼",
+      "count": 923
+    },
+    {
+      "major": "잡화",
+      "minor": "주얼리",
+      "count": 914
+    },
+    {
+      "major": "영여성",
+      "minor": "해외컨템",
+      "count": 501
+    },
+    {
+      "major": "아동",
+      "minor": "유아",
+      "count": 463
+    },
+    {
+      "major": "남성",
+      "minor": "캐주얼",
+      "count": 458
+    },
+    {
+      "major": "영여성",
+      "minor": "이너웨어",
+      "count": 452
+    },
+    {
+      "major": "캐주얼",
+      "minor": "트레디셔널 캐주얼",
+      "count": 450
+    },
+    {
+      "major": "남성",
+      "minor": "컨템포러리",
+      "count": 442
+    },
+    {
+      "major": "캐주얼",
+      "minor": "진캐주얼",
+      "count": 364
+    },
+    {
+      "major": "영여성",
+      "minor": "시니어",
+      "count": 353
+    },
+    {
+      "major": "[PB] 아동",
+      "minor": "아동",
+      "count": 343
+    },
+    {
+      "major": "아동",
+      "minor": "편집샵",
+      "count": 289
+    },
+    {
+      "major": "남성",
+      "minor": "정장(셔츠)",
+      "count": 253
+    },
+    {
+      "major": "캐주얼",
+      "minor": "SPA",
+      "count": 249
+    },
+    {
+      "major": "[PB] 영여성",
+      "minor": "캐릭터",
+      "count": 248
+    },
+    {
+      "major": "스포츠/아웃도어",
+      "minor": "애슬레저",
+      "count": 188
+    },
+    {
+      "major": "남성",
+      "minor": "TD",
+      "count": 182
+    },
+    {
+      "major": "캐주얼",
+      "minor": "컨템포러리 캐주얼",
+      "count": 157
+    },
+    {
+      "major": "[PB] 영여성",
+      "minor": "커리어",
+      "count": 119
+    },
+    {
+      "major": "남성",
+      "minor": "편집샵",
+      "count": 112
+    },
+    {
+      "major": "[PB] 캐주얼",
+      "minor": "캐주얼",
+      "count": 101
+    },
+    {
+      "major": "[PB] 영여성",
+      "minor": "캐주얼",
+      "count": 99
+    },
+    {
+      "major": "아동",
+      "minor": "내의",
+      "count": 83
+    },
+    {
+      "major": "스포츠/아웃도어",
+      "minor": "편집샵",
+      "count": 65
+    },
+    {
+      "major": "영여성",
+      "minor": "온라인",
+      "count": 62
+    },
+    {
+      "major": "[PB] 남성",
+      "minor": "정장",
+      "count": 54
+    },
+    {
+      "major": "아동",
+      "minor": "유아동",
+      "count": 37
+    },
+    {
+      "major": "[PB] 영여성",
+      "minor": "시니어",
+      "count": 34
+    },
+    {
+      "major": "[PB] 스포츠/아웃도어",
+      "minor": "스포츠",
+      "count": 26
+    },
+    {
+      "major": "캐주얼",
+      "minor": "편집샵",
+      "count": 21
+    },
+    {
+      "major": "[PB] 캐주얼",
+      "minor": "SPA",
+      "count": 19
+    },
+    {
+      "major": "[PB] 잡화",
+      "minor": "슈즈",
+      "count": 17
+    },
+    {
+      "major": "영여성",
+      "minor": "편집샵",
+      "count": 16
+    },
+    {
+      "major": "[PB] 남성",
+      "minor": "캐주얼",
+      "count": 16
+    }
+  ],
+  "group13Data": [
+    {
+      "name": "스포츠·골프",
+      "count": 4567
+    },
+    {
+      "name": "여성패션(캐릭터·커리어)",
+      "count": 4362
+    },
+    {
+      "name": "이머징·SPA·편집",
+      "count": 3546
+    },
+    {
+      "name": "란제리·슈즈·잡화",
+      "count": 2986
+    },
+    {
+      "name": "유아동·키즈",
+      "count": 2823
+    },
+    {
+      "name": "남성패션",
+      "count": 2508
+    },
+    {
+      "name": "푸드·식품·라운지",
+      "count": 2306
+    },
+    {
+      "name": "서비스·기타",
+      "count": 2170
+    },
+    {
+      "name": "리빙·가전·주방",
+      "count": 2153
+    },
+    {
+      "name": "뷰티·뷰티편집",
+      "count": 1747
+    },
+    {
+      "name": "명품·럭셔리",
+      "count": 1276
+    },
+    {
+      "name": "주얼리·워치·선글라스",
+      "count": 930
+    },
+    {
+      "name": "국내·해외컨템 여성",
+      "count": 501
+    }
+  ],
+  "gradeMap": {
+    "-": 15673,
+    "C": 5688,
+    "B": 6903,
+    "A": 2279,
+    "S": 627,
+    "F": 705
+  }
+}
