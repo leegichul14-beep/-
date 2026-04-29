@@ -43,7 +43,9 @@ for (const { sheet, distName } of DIST_SHEETS) {
 
     if (!brand || !store) continue
 
-    allRecords.push({ distName, channel, store, floor, brand, major, minor, group13, grade, mapped, ownBrand })
+    // 채널명이 있으면 채널명을 유통사 구분으로 사용 (롯데백화점, 롯데아울렛, 스타필드 등)
+    const effectiveDist = channel || distName
+    allRecords.push({ distName: effectiveDist, channel, store, floor, brand, major, minor, group13, grade, mapped, ownBrand })
   }
 }
 

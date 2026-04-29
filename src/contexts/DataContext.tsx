@@ -57,16 +57,16 @@ export function useDashboardData() {
 }
 
 // ── 컬럼 인덱스 (6사 통합 포맷) ──────────────────────────
-const COL = { 점포: 2, 브랜드: 5, 매핑: 6, 대분류: 7, 중분류: 8, 그룹13: 9, 등급: 10, 자사: 11 }
+const COL = { 채널: 1, 점포: 2, 브랜드: 5, 매핑: 6, 대분류: 7, 중분류: 8, 그룹13: 9, 등급: 10, 자사: 11 }
 
 // ── Excel 시트 → 레코드 배열 변환 ────────────────────────
 function parseSheet(
   rows: unknown[][],
   distName: string,
-): null | { store: string; brand: string; major: string; minor: string; group13: string; grade: string; mapped: boolean }[] {
+): null | { channel: string; store: string; brand: string; major: string; minor: string; group13: string; grade: string; mapped: boolean }[] {
   // 헤더 행 탐색: 브랜드명 / 점포 포함된 행
   let headerIdx = -1
-  let brandCol = -1, storeCol = -1, majorCol = -1, minorCol = -1, group13Col = -1, gradeCol = -1, mappedCol = -1
+  let brandCol = -1, storeCol = -1, majorCol = -1, minorCol = -1, group13Col = -1, gradeCol = -1, mappedCol = -1, channelCol = -1
 
   for (let i = 0; i < Math.min(rows.length, 5); i++) {
     const r = rows[i].map(v => String(v || '').trim())
@@ -74,7 +74,7 @@ function parseSheet(
     const si = r.findIndex(v => v === '점포')
     const mi = r.findIndex(v => v === '대분류')
     if (bi >= 0 && si >= 0 && mi >= 0) {
-      headerIdx = i
+      headerIdx  = i
       brandCol   = bi
       storeCol   = si
       majorCol   = mi
@@ -82,6 +82,7 @@ function parseSheet(
       group13Col = r.findIndex(v => v === '13그룹' || v.includes('그룹'))
       gradeCol   = r.findIndex(v => v === '등급')
       mappedCol  = r.findIndex(v => v === '매핑여부')
+      channelCol = r.findIndex(v => v === '채널' || v === '유통채널')
       break
     }
   }
@@ -93,6 +94,7 @@ function parseSheet(
       const r = rows[1].map(v => String(v || '').trim())
       if (r[COL.브랜드] === '브랜드명' && r[COL.점포] === '점포') {
         headerIdx  = 1
+        channelCol = COL.채널
         storeCol   = COL.점포
         brandCol   = COL.브랜드
         mappedCol  = COL.매핑
@@ -115,6 +117,7 @@ function parseSheet(
     if (!brand || !store) continue
 
     records.push({
+      channel: channelCol >= 0 ? String(r[channelCol] || '').trim() : '',
       store,
       brand,
       major,
@@ -134,7 +137,7 @@ async function parseFolderToDashboard(
   // xlsx 동적 import (클라이언트 번들 최적화)
   const XLSX = await import('xlsx')
 
-  type RawRecord = { distName: string; store: string; brand: string; major: string; minor: string; group13: string; grade: string; mapped: boolean }
+  type RawRecord = { distName: string; channel: string; store: string; brand: string; major: string; minor: string; group13: string; grade: string; mapped: boolean }
   const allRecords: RawRecord[] = []
 
   // 폴더 내 xlsx 파일 수집
@@ -173,7 +176,7 @@ async function parseFolderToDashboard(
         const rows = XLSX.utils.sheet_to_json(wb.Sheets[sheetName], { defval: '', header: 1 }) as unknown[][]
         const records = parseSheet(rows, distName)
         if (records) {
-          records.forEach(r => allRecords.push({ distName, ...r }))
+          records.forEach(r => allRecords.push({ distName: r.channel || distName, ...r }))
           parsedAny = true
         }
       }
@@ -186,7 +189,7 @@ async function parseFolderToDashboard(
         const distName = fileName.replace(/\.xlsx$/i, '').replace(/^\d+_/, '')
         const records = parseSheet(rows, distName)
         if (records && records.length > 0) {
-          records.forEach(r => allRecords.push({ distName, ...r }))
+          records.forEach(r => allRecords.push({ distName: r.channel || distName, ...r }))
           parsedAny = true
         }
       }

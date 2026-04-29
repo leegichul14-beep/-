@@ -10,7 +10,10 @@
       "PowerShell($env:Path = \"C:\\\\Program Files\\\\nodejs;\" + $env:Path; node --version; npm --version)",
       "PowerShell($src = \"C:\\\\Users\\\\LEE_GICHUL\\\\Desktop\\\\content-dashboard\"; $dst = \"C:\\\\Users\\\\LEE_GICHUL\\\\Desktop\\\\새 폴더\"; Get-ChildItem -Path $src -Force | Where-Object { $_.Name -ne \".git\" } | ForEach-Object { Copy-Item -Path $_.FullName -Destination $dst -Recurse -Force }; Write-Host \"Done\")",
       "PowerShell([System.IO.Directory]::GetFileSystemEntries\\(\"C:\\\\Users\\\\LEE_GICHUL\\\\Desktop\\\\새 폴더\"\\))",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "PowerShell(Get-ChildItem \"$env:APPDATA\\\\vercel\" -ErrorAction SilentlyContinue | Select-Object Name, FullName)"
     ]
   }
 }

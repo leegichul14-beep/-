@@ -12,7 +12,7 @@ import { useDashboardData } from '@/contexts/DataContext'
 const nav = [
   { href: '/dashboard',          label: '전체 현황',    icon: LayoutDashboard },
   { href: '/dashboard/stores',   label: '점포별 분석',  icon: Store },
-  { href: '/dashboard/group13',  label: '13그룹 분석',  icon: Layers },
+  { href: '/dashboard/group13',  label: '카테고리 분석',  icon: Layers },
   { href: '/dashboard/brands',   label: '브랜드 검색',  icon: Tag },
   { href: '/dashboard/period',   label: '기간별 분석',  icon: BarChart2 },
   { href: '/dashboard/online',   label: '온라인 채널',  icon: ShoppingBag },

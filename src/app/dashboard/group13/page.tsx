@@ -53,7 +53,7 @@ export default function Group13Page() {
   return (
     <div className="space-y-6">
       <div>
-        <h2 className="text-xl font-bold text-gray-900">13그룹 분석</h2>
+        <h2 className="text-xl font-bold text-gray-900">카테고리 분석</h2>
         <p className="text-sm text-gray-500 mt-0.5">
           13개 그룹핑 기준 · 유통사별 / 지점별 비중 분석
         </p>
@@ -149,7 +149,7 @@ export default function Group13Page() {
           </div>
         ) : (
           <div className="rounded-xl border border-gray-200 bg-white p-5">
-            <h3 className="text-sm font-semibold text-gray-700 mb-1">13그룹별 비중</h3>
+            <h3 className="text-sm font-semibold text-gray-700 mb-1">카테고리별 비중</h3>
             <p className="text-xs text-gray-400 mb-4">전체 매핑 레코드 기준</p>
             <div className="space-y-2.5">
               {group13Data.slice(0, 10).map(g => {
@@ -175,14 +175,14 @@ export default function Group13Page() {
       {!selectedGroup && (
         <div className="rounded-xl border border-gray-200 bg-white overflow-hidden">
           <div className="px-5 py-4 border-b border-gray-100">
-            <h3 className="text-sm font-semibold text-gray-700">13그룹 × 유통사 교차표</h3>
+            <h3 className="text-sm font-semibold text-gray-700">카테고리 × 유통사 교차표</h3>
             <p className="text-xs text-gray-400 mt-0.5">행 클릭 시 해당 그룹 상세 분석</p>
           </div>
           <div className="overflow-x-auto">
             <table className="w-full text-sm">
               <thead>
                 <tr className="border-b border-gray-100 bg-gray-50 text-left">
-                  <th className="py-3 px-4 font-semibold text-gray-600">13그룹</th>
+                  <th className="py-3 px-4 font-semibold text-gray-600">카테고리</th>
                   <th className="py-3 px-4 font-semibold text-gray-600 text-right">합계</th>
                   {distNames.map(d => (
                     <th key={d} className="py-3 px-4 font-semibold text-gray-600 text-right">{d}</th>

@@ -58,7 +58,7 @@ export default function BrandsPage() {
       <div>
         <h2 className="text-xl font-bold text-gray-900">브랜드 검색</h2>
         <p className="text-sm text-gray-500 mt-0.5">
-          13그룹 → 대분류 → 브랜드 → 지점 순으로 탐색
+          카테고리 → 대분류 → 브랜드 → 지점 순으로 탐색
         </p>
       </div>
 
@@ -106,7 +106,7 @@ export default function BrandsPage() {
         )}
       </nav>
 
-      {/* ── Level 0: 13그룹 카드 ── */}
+      {/* ── Level 0: 카테고리 카드 ── */}
       {level === 'group13' && (
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
           {group13Data.map(g => (
@@ -115,7 +115,7 @@ export default function BrandsPage() {
               onClick={() => toGroup13(g.name)}
               className="rounded-xl border border-gray-200 bg-white p-4 text-left hover:border-pink-300 hover:bg-pink-50 transition-all hover:shadow-sm group"
             >
-              <p className="text-xs font-semibold text-gray-500 group-hover:text-pink-500 transition-colors">13그룹</p>
+              <p className="text-xs font-semibold text-gray-500 group-hover:text-pink-500 transition-colors">카테고리</p>
               <p className="text-sm font-bold text-gray-800 mt-1 leading-tight">{g.name}</p>
               <p className="mt-2 text-2xl font-bold text-pink-500">{g.count.toLocaleString('ko-KR')}</p>
               <p className="mt-0.5 text-xs text-gray-400">레코드</p>
