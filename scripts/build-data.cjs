@@ -170,6 +170,60 @@ console.log('\n[등급 분포]', JSON.stringify(gradeMap))
 console.log('\n[13그룹 Top10]')
 group13Data.slice(0, 10).forEach(d => console.log(`  ${d.name}: ${d.count}`))
 
+// ── 8b. 13그룹 분석 + 브랜드 드릴다운용 집계 ─────────────────
+const _g13Dist  = {}  // [group13||dist] → count
+const _g13Major = {}  // [group13||major] → count
+const _g13Store = {}  // [group13||dist||store] → count
+const _g13MB    = {}  // [group13||major||brand] → { group13, major, brand, stores: Set }
+const _bStore   = {}  // [brand||dist||store] → { brand, distName, storeName, count }
+
+for (const r of allRecords) {
+  if (!r.mapped) continue
+  const g  = r.group13 || '미분류'
+  const m  = r.major   || '미분류'
+
+  const dk = `${g}||${r.distName}`
+  _g13Dist[dk] = (_g13Dist[dk] || 0) + 1
+
+  const mk = `${g}||${m}`
+  _g13Major[mk] = (_g13Major[mk] || 0) + 1
+
+  const sk = `${g}||${r.distName}||${r.store}`
+  _g13Store[sk] = (_g13Store[sk] || 0) + 1
+
+  const bmk = `${g}||${m}||${r.brand}`
+  if (!_g13MB[bmk]) _g13MB[bmk] = { group13: g, major: m, brand: r.brand, stores: new Set() }
+  _g13MB[bmk].stores.add(`${r.distName}||${r.store}`)
+
+  const bsk = `${r.brand}||${r.distName}||${r.store}`
+  if (!_bStore[bsk]) _bStore[bsk] = { brand: r.brand, distName: r.distName, storeName: r.store, count: 0 }
+  _bStore[bsk].count++
+}
+
+const g13DistData = Object.entries(_g13Dist).map(([k, count]) => {
+  const [group13, distName] = k.split('||')
+  return { group13, distName, count }
+})
+
+const g13MajorData = Object.entries(_g13Major).map(([k, count]) => {
+  const [group13, major] = k.split('||')
+  return { group13, major, count }
+})
+
+const g13StoreData = Object.entries(_g13Store).map(([k, count]) => {
+  const [group13, distName, storeName] = k.split('||')
+  return { group13, distName, storeName, count }
+}).sort((a, b) => b.count - a.count)
+
+const g13MajorBrandData = Object.values(_g13MB).map(v => ({
+  group13: v.group13, major: v.major, brand: v.brand, storeCount: v.stores.size,
+})).sort((a, b) => b.storeCount - a.storeCount)
+
+const brandStoreData = Object.values(_bStore).sort((a, b) => b.count - a.count)
+
+console.log(`\n[13그룹 분석 집계] g13DistData:${g13DistData.length} g13MajorData:${g13MajorData.length} g13StoreData:${g13StoreData.length}`)
+console.log(`  g13MajorBrandData:${g13MajorBrandData.length} brandStoreData:${brandStoreData.length}`)
+
 // ── 8. JSON 출력 ─────────────────────────────────────────
 const output = {
   meta: {
@@ -187,6 +241,12 @@ const output = {
   minorData:   minorData.slice(0, 50),
   group13Data,
   gradeMap,
+  // ── 13그룹 분석 + 브랜드 드릴다운 ──────────────
+  g13DistData,
+  g13MajorData,
+  g13StoreData,
+  g13MajorBrandData,
+  brandStoreData,
 }
 
 const outPath = 'src/data/dashboard-data.json'

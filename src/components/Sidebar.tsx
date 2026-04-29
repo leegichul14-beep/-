@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import {
   LayoutDashboard, Store, Tag, BarChart2,
-  ShoppingBag, Upload, FolderOpen, RotateCcw, Loader2, CheckCircle2,
+  ShoppingBag, Upload, FolderOpen, RotateCcw, Loader2, CheckCircle2, Layers,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { useDashboardData } from '@/contexts/DataContext'
@@ -12,6 +12,7 @@ import { useDashboardData } from '@/contexts/DataContext'
 const nav = [
   { href: '/dashboard',          label: '전체 현황',    icon: LayoutDashboard },
   { href: '/dashboard/stores',   label: '점포별 분석',  icon: Store },
+  { href: '/dashboard/group13',  label: '13그룹 분석',  icon: Layers },
   { href: '/dashboard/brands',   label: '브랜드 검색',  icon: Tag },
   { href: '/dashboard/period',   label: '기간별 분석',  icon: BarChart2 },
   { href: '/dashboard/online',   label: '온라인 채널',  icon: ShoppingBag },

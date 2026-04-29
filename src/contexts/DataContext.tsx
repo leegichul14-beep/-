@@ -22,13 +22,20 @@ export interface DashboardData {
     totalRecords: number; mappedRecords: number; unmappedRecords: number
     totalStores: number; totalBrands: number; generatedAt: string; folderName?: string
   }
-  distSummary:   DistSummary[]
-  majorData:     { name: string; count: number }[]
-  crossTable:    CrossRow[]
-  storeRatioData: StoreRatioRow[]
-  minorData:     { major: string; minor: string; count: number }[]
-  group13Data:   { name: string; count: number }[]
-  gradeMap:      Record<string, number>
+  distSummary:        DistSummary[]
+  majorData:          { name: string; count: number }[]
+  crossTable:         CrossRow[]
+  storeRatioData:     StoreRatioRow[]
+  minorData:          { major: string; minor: string; count: number }[]
+  group13Data:        { name: string; count: number }[]
+  gradeMap:           Record<string, number>
+  // ── 13그룹 분석 ─────────────────────────────────────────
+  g13DistData:        { group13: string; distName: string; count: number }[]
+  g13MajorData:       { group13: string; major: string; count: number }[]
+  g13StoreData:       { group13: string; distName: string; storeName: string; count: number }[]
+  // ── 브랜드 드릴다운 ─────────────────────────────────────
+  g13MajorBrandData:  { group13: string; major: string; brand: string; storeCount: number }[]
+  brandStoreData:     { brand: string; distName: string; storeName: string; count: number }[]
 }
 
 interface DataContextValue {
@@ -201,6 +208,12 @@ async function parseFolderToDashboard(
   const gradeMap: Record<string, number> = {}
   const storeMap: Record<string, { distName: string; store: string; total: number; byMajor: Record<string, number> }> = {}
   const crossMap: Record<string, Record<string, number>> = {}
+  // 13그룹 분석용
+  const _g13Dist:  Record<string, number> = {}
+  const _g13Major: Record<string, number> = {}
+  const _g13Store: Record<string, number> = {}
+  const _g13MB:    Record<string, { group13: string; major: string; brand: string; stores: Set<string> }> = {}
+  const _bStore:   Record<string, { brand: string; distName: string; storeName: string; count: number }> = {}
 
   for (const r of allRecords) {
     // 유통사별
@@ -237,6 +250,24 @@ async function parseFolderToDashboard(
     // 교차표
     if (!crossMap[major]) crossMap[major] = {}
     crossMap[major][r.distName] = (crossMap[major][r.distName] || 0) + 1
+
+    // ── 13그룹 분석 + 브랜드 드릴다운 ────────────────────
+    const dk = `${g}||${r.distName}`
+    _g13Dist[dk] = (_g13Dist[dk] || 0) + 1
+
+    const gmk = `${g}||${major}`
+    _g13Major[gmk] = (_g13Major[gmk] || 0) + 1
+
+    const gsk = `${g}||${r.distName}||${r.store}`
+    _g13Store[gsk] = (_g13Store[gsk] || 0) + 1
+
+    const bmk = `${g}||${major}||${r.brand}`
+    if (!_g13MB[bmk]) _g13MB[bmk] = { group13: g, major, brand: r.brand, stores: new Set() }
+    _g13MB[bmk].stores.add(`${r.distName}||${r.store}`)
+
+    const bsk = `${r.brand}||${r.distName}||${r.store}`
+    if (!_bStore[bsk]) _bStore[bsk] = { brand: r.brand, distName: r.distName, storeName: r.store, count: 0 }
+    _bStore[bsk].count++
   }
 
   const distNames = Object.keys(distMap)
@@ -281,6 +312,24 @@ async function parseFolderToDashboard(
 
   const minorData = Object.values(minorMap).sort((a, b) => b.count - a.count)
 
+  // ── 13그룹 분석 + 브랜드 드릴다운 파생 ──────────────────
+  const g13DistData = Object.entries(_g13Dist).map(([k, count]) => {
+    const [group13, distName] = k.split('||')
+    return { group13, distName, count }
+  })
+  const g13MajorData = Object.entries(_g13Major).map(([k, count]) => {
+    const [group13, major] = k.split('||')
+    return { group13, major, count }
+  })
+  const g13StoreData = Object.entries(_g13Store).map(([k, count]) => {
+    const [group13, distName, storeName] = k.split('||')
+    return { group13, distName, storeName, count }
+  }).sort((a, b) => b.count - a.count)
+  const g13MajorBrandData = Object.values(_g13MB).map(v => ({
+    group13: v.group13, major: v.major, brand: v.brand, storeCount: v.stores.size,
+  })).sort((a, b) => b.storeCount - a.storeCount)
+  const brandStoreData = Object.values(_bStore).sort((a, b) => b.count - a.count)
+
   return {
     meta: {
       totalRecords:    allRecords.length,
@@ -294,6 +343,8 @@ async function parseFolderToDashboard(
     distSummary, majorData, crossTable, storeRatioData,
     minorData: minorData.slice(0, 100),
     group13Data, gradeMap,
+    g13DistData, g13MajorData, g13StoreData,
+    g13MajorBrandData, brandStoreData,
   }
 }
 
