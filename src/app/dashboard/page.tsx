@@ -1,66 +1,31 @@
-import { createClient } from '@/lib/supabase/server'
 import StatCard from '@/components/StatCard'
 import CategoryPieChart from '@/components/charts/CategoryPieChart'
 import DistributorBarChart from '@/components/charts/DistributorBarChart'
 
-export const revalidate = 60
+// TODO: Supabase 연결 후 아래 mock 데이터를 실제 쿼리로 교체
+const totalCount  = 39712
+const unmappedCount = 7837
+const onlineStats = { musinsa: 142, zigzag: 89, cm29: 167, wconcept: 54 }
+
+const distData = [
+  { name: '현대',    count: 9823 },
+  { name: '롯데',    count: 11204 },
+  { name: '신세계',  count: 8941 },
+  { name: 'AK',      count: 5312 },
+  { name: '갤러리아',count: 4432 },
+]
+
+const catData = [
+  { name: '영여성',         value: 13542 },
+  { name: '여성',           value: 7821 },
+  { name: '잡화',           value: 4032 },
+  { name: '스포츠/아웃도어',value: 5211 },
+  { name: '컨템포러리',     value: 3901 },
+  { name: '남성',           value: 2984 },
+  { name: '기타',           value: 2221 },
+]
 
 export default async function DashboardPage() {
-  const supabase = await createClient()
-
-  // 전체 활성 입점 수
-  const { count: totalCount } = await supabase
-    .from('v_active_listings')
-    .select('*', { count: 'exact', head: true })
-
-  // 유통사별 카운트
-  const { data: byDistributorRaw } = await supabase
-    .from('v_active_listings')
-    .select('distributor_name, channel_type')
-  const byDistributor = byDistributorRaw as { distributor_name: string; channel_type: string }[] | null
-
-  // 카테고리별 카운트
-  const { data: byCategoryRaw } = await supabase
-    .from('v_active_listings')
-    .select('category_name')
-  const byCategory = byCategoryRaw as { category_name: string | null }[] | null
-
-  // 미매핑 수
-  const { count: unmappedCount } = await supabase
-    .from('listings')
-    .select('*', { count: 'exact', head: true })
-    .eq('status', 'unmapped')
-
-  // 온라인 채널 집계
-  const { data: onlineData } = await supabase
-    .from('brands')
-    .select('on_musinsa, on_zigzag, on_29cm, on_wconcept')
-    .eq('is_active', true)
-
-  const online = (onlineData ?? []) as { on_musinsa: boolean; on_zigzag: boolean; on_29cm: boolean; on_wconcept: boolean }[]
-  const onlineStats = {
-    musinsa: online.filter(b => b.on_musinsa).length,
-    zigzag:  online.filter(b => b.on_zigzag).length,
-    cm29:    online.filter(b => b.on_29cm).length,
-    wconcept:online.filter(b => b.on_wconcept).length,
-  }
-
-  // 집계 계산
-  const distMap: Record<string, number> = {}
-  const catMap: Record<string, number> = {}
-  for (const row of byDistributor ?? []) {
-    if (row.channel_type !== 'offline') continue
-    distMap[row.distributor_name] = (distMap[row.distributor_name] ?? 0) + 1
-  }
-  for (const row of byCategory ?? []) {
-    const k = row.category_name ?? '미분류'
-    catMap[k] = (catMap[k] ?? 0) + 1
-  }
-
-  const distData = Object.entries(distMap).map(([name, count]) => ({ name, count }))
-  const catData = Object.entries(catMap)
-    .sort((a, b) => b[1] - a[1])
-    .map(([name, value]) => ({ name, value }))
 
   return (
     <div className="space-y-6">

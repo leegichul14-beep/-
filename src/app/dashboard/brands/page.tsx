@@ -1,15 +1,17 @@
-import { createClient } from '@/lib/supabase/server'
 import BrandSearchClient from '@/components/BrandSearchClient'
 
-export const revalidate = 60
+// TODO: Supabase 연결 후 실제 쿼리로 교체
+const MOCK_CATEGORIES = [
+  { id: '1', name: '영여성',         color_hex: '#EC4899' },
+  { id: '2', name: '여성',           color_hex: '#F97316' },
+  { id: '3', name: '컨템포러리',     color_hex: '#8B5CF6' },
+  { id: '4', name: '잡화',           color_hex: '#06B6D4' },
+  { id: '5', name: '스포츠/아웃도어',color_hex: '#10B981' },
+  { id: '6', name: '남성',           color_hex: '#3B82F6' },
+]
 
 export default async function BrandsPage() {
-  const supabase = await createClient()
-
-  const { data: categories } = await supabase
-    .from('categories')
-    .select('id, name, color_hex')
-    .order('sort_order')
+  const categories = MOCK_CATEGORIES
 
   return (
     <div className="space-y-6">

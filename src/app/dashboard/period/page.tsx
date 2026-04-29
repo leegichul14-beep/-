@@ -1,20 +1,26 @@
-import { createClient } from '@/lib/supabase/server'
 import PeriodAnalysisClient from '@/components/PeriodAnalysisClient'
 
-export const revalidate = 0
+// TODO: Supabase 연결 후 실제 쿼리로 교체
+const MOCK_DISTRIBUTORS = [
+  { name: '현대', short_code: 'HY' },
+  { name: '롯데', short_code: 'LT' },
+  { name: '신세계', short_code: 'SS' },
+  { name: 'AK', short_code: 'AK' },
+  { name: '갤러리아', short_code: 'GA' },
+]
+
+const MOCK_CATEGORIES = [
+  { name: '영여성',         color_hex: '#EC4899' },
+  { name: '여성',           color_hex: '#F97316' },
+  { name: '컨템포러리',     color_hex: '#8B5CF6' },
+  { name: '잡화',           color_hex: '#06B6D4' },
+  { name: '스포츠/아웃도어',color_hex: '#10B981' },
+  { name: '남성',           color_hex: '#3B82F6' },
+]
 
 export default async function PeriodPage() {
-  const supabase = await createClient()
-
-  const { data: distributors } = await supabase
-    .from('distributors')
-    .select('name, short_code')
-    .order('sort_order')
-
-  const { data: categories } = await supabase
-    .from('categories')
-    .select('name, color_hex')
-    .order('sort_order')
+  const distributors = MOCK_DISTRIBUTORS
+  const categories   = MOCK_CATEGORIES
 
   return (
     <div className="space-y-6">

@@ -1,6 +1,12 @@
-import { createClient } from '@/lib/supabase/server'
-
-export const revalidate = 60
+// TODO: Supabase 연결 후 실제 쿼리로 교체
+const MOCK_CROSS = [
+  { category: '영여성',         total: 412, musinsa: 142, zigzag: 89, cm29: 167, wconcept: 54 },
+  { category: '여성',           total: 310, musinsa: 98,  zigzag: 71, cm29: 121, wconcept: 43 },
+  { category: '컨템포러리',     total: 188, musinsa: 22,  zigzag: 18, cm29: 41,  wconcept: 12 },
+  { category: '잡화',           total: 241, musinsa: 58,  zigzag: 34, cm29: 82,  wconcept: 29 },
+  { category: '스포츠/아웃도어',total: 198, musinsa: 87,  zigzag: 62, cm29: 94,  wconcept: 31 },
+  { category: '남성',           total: 156, musinsa: 71,  zigzag: 48, cm29: 63,  wconcept: 19 },
+]
 
 const CHANNELS = [
   { key: 'on_musinsa',  label: '무신사',   color: 'text-indigo-600 bg-indigo-50',  bar: 'bg-indigo-400' },
@@ -10,36 +16,13 @@ const CHANNELS = [
 ] as const
 
 export default async function OnlinePage() {
-  const supabase = await createClient()
+  const crossTable = MOCK_CROSS
+  const total = crossTable.reduce((s, r) => s + r.total, 0)
 
-  const { data: brands } = await supabase
-    .from('brands')
-    .select('*, categories(name)')
-    .eq('is_active', true)
-
-  if (!brands) return null
-
-  const total = brands.length
-
-  // 채널별 통계
   const channelStats = CHANNELS.map(ch => ({
     ...ch,
-    count: brands.filter(b => (b as any)[ch.key]).length,
+    count: crossTable.reduce((s, r) => s + (r[ch.key as keyof typeof r] as number), 0),
   }))
-
-  // 카테고리 × 채널 교차 집계
-  const catSet = Array.from(new Set(brands.map(b => (b as any).categories?.name ?? '미분류'))).sort()
-  const crossTable = catSet.map(cat => {
-    const catBrands = brands.filter(b => ((b as any).categories?.name ?? '미분류') === cat) as any[]
-    return {
-      category: cat,
-      total: catBrands.length,
-      musinsa:  catBrands.filter(b => b.on_musinsa).length,
-      zigzag:   catBrands.filter(b => b.on_zigzag).length,
-      cm29:     catBrands.filter(b => b.on_29cm).length,
-      wconcept: catBrands.filter(b => b.on_wconcept).length,
-    }
-  }).sort((a, b) => b.total - a.total)
 
   return (
     <div className="space-y-6">
