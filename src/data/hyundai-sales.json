@@ -1,0 +1,8252 @@
+{
+  "동구점": [
+    {
+      "no": 1,
+      "brand": "베네통",
+      "total": 187388,
+      "offline": 187388,
+      "online": 0,
+      "monthly_avg": 15616
+    },
+    {
+      "no": 2,
+      "brand": "잇미샤",
+      "total": 179529,
+      "offline": 63242,
+      "online": 116286,
+      "monthly_avg": 14961
+    },
+    {
+      "no": 3,
+      "brand": "써스데이아일랜드",
+      "total": 167134,
+      "offline": 167134,
+      "online": 0,
+      "monthly_avg": 13928
+    },
+    {
+      "no": 4,
+      "brand": "VISIT",
+      "total": 154126,
+      "offline": 68656,
+      "online": 85470,
+      "monthly_avg": 12844
+    },
+    {
+      "no": 5,
+      "brand": "ab.f.z",
+      "total": 143381,
+      "offline": 29164,
+      "online": 114217,
+      "monthly_avg": 11948
+    },
+    {
+      "no": 6,
+      "brand": "온앤온",
+      "total": 118992,
+      "offline": 35315,
+      "online": 83677,
+      "monthly_avg": 9916
+    },
+    {
+      "no": 7,
+      "brand": "나이스클랍",
+      "total": 94597,
+      "offline": 94597,
+      "online": 0,
+      "monthly_avg": 7883
+    },
+    {
+      "no": 8,
+      "brand": "톰보이",
+      "total": 90034,
+      "offline": 73682,
+      "online": 16351,
+      "monthly_avg": 7503
+    },
+    {
+      "no": 9,
+      "brand": "플라스틱아일랜드",
+      "total": 78383,
+      "offline": 47116,
+      "online": 31267,
+      "monthly_avg": 6532
+    },
+    {
+      "no": 10,
+      "brand": "SOUP",
+      "total": 76731,
+      "offline": 64068,
+      "online": 12663,
+      "monthly_avg": 6394
+    },
+    {
+      "no": 11,
+      "brand": "코데즈컴바인",
+      "total": 49589,
+      "offline": 43356,
+      "online": 6233,
+      "monthly_avg": 4132
+    },
+    {
+      "no": 12,
+      "brand": "올리브데올리브",
+      "total": 32139,
+      "offline": 24874,
+      "online": 7265,
+      "monthly_avg": 2678
+    },
+    {
+      "no": 13,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "신촌점": [
+    {
+      "no": 1,
+      "brand": "베네통",
+      "total": 1352784,
+      "offline": 1336561,
+      "online": 16223,
+      "monthly_avg": 112732
+    },
+    {
+      "no": 2,
+      "brand": "JJ지고트",
+      "total": 1178938,
+      "offline": 463803,
+      "online": 715135,
+      "monthly_avg": 98245
+    },
+    {
+      "no": 3,
+      "brand": "올리브데올리브",
+      "total": 1164749,
+      "offline": 131408,
+      "online": 1033341,
+      "monthly_avg": 97062
+    },
+    {
+      "no": 4,
+      "brand": "SOUP",
+      "total": 1152049,
+      "offline": 476141,
+      "online": 675908,
+      "monthly_avg": 96004
+    },
+    {
+      "no": 5,
+      "brand": "톰보이",
+      "total": 820121,
+      "offline": 625624,
+      "online": 194498,
+      "monthly_avg": 68343
+    },
+    {
+      "no": 6,
+      "brand": "라인",
+      "total": 616773,
+      "offline": 373817,
+      "online": 242956,
+      "monthly_avg": 51398
+    },
+    {
+      "no": 7,
+      "brand": "시스템",
+      "total": 593282,
+      "offline": 593282,
+      "online": 0,
+      "monthly_avg": 49440
+    },
+    {
+      "no": 8,
+      "brand": "케네스레이디",
+      "total": 539005,
+      "offline": 366169,
+      "online": 172837,
+      "monthly_avg": 44917
+    },
+    {
+      "no": 9,
+      "brand": "코데즈컴바인",
+      "total": 487881,
+      "offline": 293354,
+      "online": 194527,
+      "monthly_avg": 40657
+    },
+    {
+      "no": 10,
+      "brand": "잇미샤",
+      "total": 485308,
+      "offline": 428736,
+      "online": 56572,
+      "monthly_avg": 40442
+    },
+    {
+      "no": 11,
+      "brand": "SJ",
+      "total": 480297,
+      "offline": 480297,
+      "online": 0,
+      "monthly_avg": 40025
+    },
+    {
+      "no": 12,
+      "brand": "VOV",
+      "total": 468575,
+      "offline": 116331,
+      "online": 352244,
+      "monthly_avg": 39048
+    },
+    {
+      "no": 13,
+      "brand": "써스데이아일랜드",
+      "total": 366980,
+      "offline": 314692,
+      "online": 52287,
+      "monthly_avg": 30582
+    },
+    {
+      "no": 14,
+      "brand": "럭키슈에뜨",
+      "total": 343617,
+      "offline": 295359,
+      "online": 48258,
+      "monthly_avg": 28635
+    },
+    {
+      "no": 15,
+      "brand": "플라스틱아일랜드",
+      "total": 316258,
+      "offline": 170812,
+      "online": 145446,
+      "monthly_avg": 26355
+    },
+    {
+      "no": 16,
+      "brand": "CC collect",
+      "total": 284566,
+      "offline": 134817,
+      "online": 149749,
+      "monthly_avg": 23714
+    },
+    {
+      "no": 17,
+      "brand": "리스트",
+      "total": 277890,
+      "offline": 129748,
+      "online": 148142,
+      "monthly_avg": 23158
+    },
+    {
+      "no": 18,
+      "brand": "나이스클랍",
+      "total": 254015,
+      "offline": 175941,
+      "online": 78074,
+      "monthly_avg": 21168
+    },
+    {
+      "no": 19,
+      "brand": "오즈세컨",
+      "total": 241935,
+      "offline": 241935,
+      "online": 0,
+      "monthly_avg": 20161
+    },
+    {
+      "no": 20,
+      "brand": "Dew.L",
+      "total": 211179,
+      "offline": 152054,
+      "online": 59125,
+      "monthly_avg": 17598
+    },
+    {
+      "no": 21,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "울산점": [
+    {
+      "no": 1,
+      "brand": "ab.f.z",
+      "total": 1919073,
+      "offline": 355696,
+      "online": 1563377,
+      "monthly_avg": 159923
+    },
+    {
+      "no": 2,
+      "brand": "에고이스트",
+      "total": 1476354,
+      "offline": 513214,
+      "online": 963141,
+      "monthly_avg": 123030
+    },
+    {
+      "no": 3,
+      "brand": "올리브데올리브",
+      "total": 937766,
+      "offline": 445115,
+      "online": 492651,
+      "monthly_avg": 78147
+    },
+    {
+      "no": 4,
+      "brand": "베네통",
+      "total": 853192,
+      "offline": 742924,
+      "online": 110268,
+      "monthly_avg": 71099
+    },
+    {
+      "no": 5,
+      "brand": "리스트",
+      "total": 803349,
+      "offline": 803349,
+      "online": 0,
+      "monthly_avg": 66946
+    },
+    {
+      "no": 6,
+      "brand": "시스템",
+      "total": 755814,
+      "offline": 755814,
+      "online": 0,
+      "monthly_avg": 62984
+    },
+    {
+      "no": 7,
+      "brand": "톰보이",
+      "total": 733939,
+      "offline": 604178,
+      "online": 129761,
+      "monthly_avg": 61162
+    },
+    {
+      "no": 8,
+      "brand": "잇미샤",
+      "total": 715643,
+      "offline": 677669,
+      "online": 37974,
+      "monthly_avg": 59637
+    },
+    {
+      "no": 9,
+      "brand": "써스데이아일랜드",
+      "total": 673002,
+      "offline": 673002,
+      "online": 0,
+      "monthly_avg": 56084
+    },
+    {
+      "no": 10,
+      "brand": "온앤온",
+      "total": 645239,
+      "offline": 561010,
+      "online": 84229,
+      "monthly_avg": 53770
+    },
+    {
+      "no": 11,
+      "brand": "럭키슈에뜨",
+      "total": 641814,
+      "offline": 571628,
+      "online": 70185,
+      "monthly_avg": 53484
+    },
+    {
+      "no": 12,
+      "brand": "코데즈컴바인",
+      "total": 605685,
+      "offline": 308486,
+      "online": 297199,
+      "monthly_avg": 50474
+    },
+    {
+      "no": 13,
+      "brand": "라인",
+      "total": 554243,
+      "offline": 548804,
+      "online": 5439,
+      "monthly_avg": 46187
+    },
+    {
+      "no": 14,
+      "brand": "쥬크",
+      "total": 537470,
+      "offline": 469167,
+      "online": 68303,
+      "monthly_avg": 44789
+    },
+    {
+      "no": 15,
+      "brand": "VOV",
+      "total": 535292,
+      "offline": 405393,
+      "online": 129899,
+      "monthly_avg": 44608
+    },
+    {
+      "no": 16,
+      "brand": "오즈세컨",
+      "total": 443487,
+      "offline": 443487,
+      "online": 0,
+      "monthly_avg": 36957
+    },
+    {
+      "no": 17,
+      "brand": "케네스레이디",
+      "total": 435125,
+      "offline": 426109,
+      "online": 9016,
+      "monthly_avg": 36260
+    },
+    {
+      "no": 18,
+      "brand": "SJ",
+      "total": 407418,
+      "offline": 407418,
+      "online": 0,
+      "monthly_avg": 33951
+    },
+    {
+      "no": 19,
+      "brand": "시스티나",
+      "total": 346356,
+      "offline": 341144,
+      "online": 5211,
+      "monthly_avg": 28863
+    },
+    {
+      "no": 20,
+      "brand": "G.CUT",
+      "total": 317664,
+      "offline": 216069,
+      "online": 101595,
+      "monthly_avg": 26472
+    },
+    {
+      "no": 21,
+      "brand": "VISIT",
+      "total": 132092,
+      "offline": 46688,
+      "online": 85404,
+      "monthly_avg": 11008
+    },
+    {
+      "no": 22,
+      "brand": "나이스클랍",
+      "total": 63823,
+      "offline": 63823,
+      "online": 0,
+      "monthly_avg": 5319
+    },
+    {
+      "no": 23,
+      "brand": "플라스틱아일랜드",
+      "total": 35641,
+      "offline": 19380,
+      "online": 16261,
+      "monthly_avg": 2970
+    },
+    {
+      "no": 24,
+      "brand": "SOUP",
+      "total": 16145,
+      "offline": 15292,
+      "online": 854,
+      "monthly_avg": 1345
+    },
+    {
+      "no": 25,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "미아점": [
+    {
+      "no": 1,
+      "brand": "G.CUT",
+      "total": 876616,
+      "offline": 168312,
+      "online": 708304,
+      "monthly_avg": 73051
+    },
+    {
+      "no": 2,
+      "brand": "VOV",
+      "total": 549622,
+      "offline": 391587,
+      "online": 158035,
+      "monthly_avg": 45802
+    },
+    {
+      "no": 3,
+      "brand": "베네통",
+      "total": 547329,
+      "offline": 495999,
+      "online": 51330,
+      "monthly_avg": 45611
+    },
+    {
+      "no": 4,
+      "brand": "시스템",
+      "total": 543792,
+      "offline": 543792,
+      "online": 0,
+      "monthly_avg": 45316
+    },
+    {
+      "no": 5,
+      "brand": "톰보이",
+      "total": 459880,
+      "offline": 393257,
+      "online": 66623,
+      "monthly_avg": 38323
+    },
+    {
+      "no": 6,
+      "brand": "케네스레이디",
+      "total": 454142,
+      "offline": 259174,
+      "online": 194968,
+      "monthly_avg": 37845
+    },
+    {
+      "no": 7,
+      "brand": "럭키슈에뜨",
+      "total": 387235,
+      "offline": 333405,
+      "online": 53830,
+      "monthly_avg": 32270
+    },
+    {
+      "no": 8,
+      "brand": "JJ지고트",
+      "total": 369221,
+      "offline": 254125,
+      "online": 115096,
+      "monthly_avg": 30768
+    },
+    {
+      "no": 9,
+      "brand": "에고이스트",
+      "total": 335078,
+      "offline": 273670,
+      "online": 61409,
+      "monthly_avg": 27923
+    },
+    {
+      "no": 10,
+      "brand": "리스트",
+      "total": 311810,
+      "offline": 191677,
+      "online": 120133,
+      "monthly_avg": 25984
+    },
+    {
+      "no": 11,
+      "brand": "써스데이아일랜드",
+      "total": 310781,
+      "offline": 266539,
+      "online": 44242,
+      "monthly_avg": 25898
+    },
+    {
+      "no": 12,
+      "brand": "Dew.L",
+      "total": 275766,
+      "offline": 188250,
+      "online": 87515,
+      "monthly_avg": 22980
+    },
+    {
+      "no": 13,
+      "brand": "쥬크",
+      "total": 262791,
+      "offline": 150258,
+      "online": 112533,
+      "monthly_avg": 21899
+    },
+    {
+      "no": 14,
+      "brand": "ab.f.z",
+      "total": 249587,
+      "offline": 112575,
+      "online": 137013,
+      "monthly_avg": 20799
+    },
+    {
+      "no": 15,
+      "brand": "잇미샤",
+      "total": 209866,
+      "offline": 209866,
+      "online": 0,
+      "monthly_avg": 17489
+    },
+    {
+      "no": 16,
+      "brand": "SOUP",
+      "total": 153700,
+      "offline": 97876,
+      "online": 55824,
+      "monthly_avg": 12808
+    },
+    {
+      "no": 17,
+      "brand": "라인",
+      "total": 142572,
+      "offline": 106428,
+      "online": 36144,
+      "monthly_avg": 11881
+    },
+    {
+      "no": 18,
+      "brand": "CC collect",
+      "total": 123068,
+      "offline": 66659,
+      "online": 56409,
+      "monthly_avg": 10256
+    },
+    {
+      "no": 19,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "목동점": [
+    {
+      "no": 1,
+      "brand": "코데즈컴바인",
+      "total": 974288,
+      "offline": 927670,
+      "online": 46619,
+      "monthly_avg": 81191
+    },
+    {
+      "no": 2,
+      "brand": "써스데이아일랜드",
+      "total": 884440,
+      "offline": 606308,
+      "online": 278133,
+      "monthly_avg": 73703
+    },
+    {
+      "no": 3,
+      "brand": "시스템",
+      "total": 868550,
+      "offline": 868550,
+      "online": 0,
+      "monthly_avg": 72379
+    },
+    {
+      "no": 4,
+      "brand": "톰보이",
+      "total": 731168,
+      "offline": 731168,
+      "online": 0,
+      "monthly_avg": 60931
+    },
+    {
+      "no": 5,
+      "brand": "베네통",
+      "total": 640144,
+      "offline": 638444,
+      "online": 1700,
+      "monthly_avg": 53345
+    },
+    {
+      "no": 6,
+      "brand": "시스티나",
+      "total": 571898,
+      "offline": 570012,
+      "online": 1886,
+      "monthly_avg": 47658
+    },
+    {
+      "no": 7,
+      "brand": "SJ",
+      "total": 533994,
+      "offline": 533994,
+      "online": 0,
+      "monthly_avg": 44500
+    },
+    {
+      "no": 8,
+      "brand": "스튜디오원",
+      "total": 509945,
+      "offline": 409400,
+      "online": 100545,
+      "monthly_avg": 42495
+    },
+    {
+      "no": 9,
+      "brand": "쥬크",
+      "total": 501762,
+      "offline": 498262,
+      "online": 3500,
+      "monthly_avg": 41813
+    },
+    {
+      "no": 10,
+      "brand": "VOV",
+      "total": 338277,
+      "offline": 232669,
+      "online": 105608,
+      "monthly_avg": 28190
+    },
+    {
+      "no": 11,
+      "brand": "오즈세컨",
+      "total": 297104,
+      "offline": 297104,
+      "online": 0,
+      "monthly_avg": 24759
+    },
+    {
+      "no": 12,
+      "brand": "럭키슈에뜨",
+      "total": 285357,
+      "offline": 237630,
+      "online": 47727,
+      "monthly_avg": 23780
+    },
+    {
+      "no": 13,
+      "brand": "Dew.L",
+      "total": 283213,
+      "offline": 246186,
+      "online": 37026,
+      "monthly_avg": 23601
+    },
+    {
+      "no": 14,
+      "brand": "나이스클랍",
+      "total": 243546,
+      "offline": 156722,
+      "online": 86824,
+      "monthly_avg": 20296
+    },
+    {
+      "no": 15,
+      "brand": "G.CUT",
+      "total": 222284,
+      "offline": 29050,
+      "online": 193234,
+      "monthly_avg": 18524
+    },
+    {
+      "no": 16,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "중동점": [
+    {
+      "no": 1,
+      "brand": "써스데이아일랜드",
+      "total": 1128326,
+      "offline": 1128326,
+      "online": 0,
+      "monthly_avg": 94027
+    },
+    {
+      "no": 2,
+      "brand": "CC collect",
+      "total": 1055723,
+      "offline": 419981,
+      "online": 635742,
+      "monthly_avg": 87977
+    },
+    {
+      "no": 3,
+      "brand": "베네통",
+      "total": 1031304,
+      "offline": 901925,
+      "online": 129379,
+      "monthly_avg": 85942
+    },
+    {
+      "no": 4,
+      "brand": "시스템",
+      "total": 899211,
+      "offline": 899211,
+      "online": 0,
+      "monthly_avg": 74934
+    },
+    {
+      "no": 5,
+      "brand": "잇미샤",
+      "total": 846876,
+      "offline": 461850,
+      "online": 385026,
+      "monthly_avg": 70573
+    },
+    {
+      "no": 6,
+      "brand": "JJ지고트",
+      "total": 837156,
+      "offline": 594891,
+      "online": 242265,
+      "monthly_avg": 69763
+    },
+    {
+      "no": 7,
+      "brand": "라인",
+      "total": 799063,
+      "offline": 617107,
+      "online": 181956,
+      "monthly_avg": 66589
+    },
+    {
+      "no": 8,
+      "brand": "에고이스트",
+      "total": 737953,
+      "offline": 489480,
+      "online": 248474,
+      "monthly_avg": 61496
+    },
+    {
+      "no": 9,
+      "brand": "온앤온",
+      "total": 714250,
+      "offline": 296958,
+      "online": 417292,
+      "monthly_avg": 59521
+    },
+    {
+      "no": 10,
+      "brand": "Dew.L",
+      "total": 709341,
+      "offline": 692023,
+      "online": 17318,
+      "monthly_avg": 59112
+    },
+    {
+      "no": 11,
+      "brand": "SOUP",
+      "total": 691335,
+      "offline": 411833,
+      "online": 279502,
+      "monthly_avg": 57611
+    },
+    {
+      "no": 12,
+      "brand": "톰보이",
+      "total": 675277,
+      "offline": 515492,
+      "online": 159785,
+      "monthly_avg": 56273
+    },
+    {
+      "no": 13,
+      "brand": "VOV",
+      "total": 661459,
+      "offline": 425173,
+      "online": 236285,
+      "monthly_avg": 55122
+    },
+    {
+      "no": 14,
+      "brand": "쥬크",
+      "total": 656435,
+      "offline": 619144,
+      "online": 37291,
+      "monthly_avg": 54703
+    },
+    {
+      "no": 15,
+      "brand": "리스트",
+      "total": 603090,
+      "offline": 520904,
+      "online": 82187,
+      "monthly_avg": 50258
+    },
+    {
+      "no": 16,
+      "brand": "플라스틱아일랜드",
+      "total": 556286,
+      "offline": 418965,
+      "online": 137321,
+      "monthly_avg": 46357
+    },
+    {
+      "no": 17,
+      "brand": "코데즈컴바인",
+      "total": 536978,
+      "offline": 333615,
+      "online": 203362,
+      "monthly_avg": 44748
+    },
+    {
+      "no": 18,
+      "brand": "SJ",
+      "total": 536893,
+      "offline": 536893,
+      "online": 0,
+      "monthly_avg": 44741
+    },
+    {
+      "no": 19,
+      "brand": "시스티나",
+      "total": 478099,
+      "offline": 467792,
+      "online": 10307,
+      "monthly_avg": 39842
+    },
+    {
+      "no": 20,
+      "brand": "VISIT",
+      "total": 463426,
+      "offline": 345674,
+      "online": 117752,
+      "monthly_avg": 38619
+    },
+    {
+      "no": 21,
+      "brand": "오즈세컨",
+      "total": 429511,
+      "offline": 429511,
+      "online": 0,
+      "monthly_avg": 35793
+    },
+    {
+      "no": 22,
+      "brand": "럭키슈에뜨",
+      "total": 369618,
+      "offline": 369618,
+      "online": 0,
+      "monthly_avg": 30802
+    },
+    {
+      "no": 23,
+      "brand": "쥬시쥬디",
+      "total": 333235,
+      "offline": 257611,
+      "online": 75624,
+      "monthly_avg": 27770
+    },
+    {
+      "no": 24,
+      "brand": "나이스클랍",
+      "total": 328757,
+      "offline": 193618,
+      "online": 135139,
+      "monthly_avg": 27396
+    },
+    {
+      "no": 25,
+      "brand": "케네스레이디",
+      "total": 188023,
+      "offline": 121479,
+      "online": 66544,
+      "monthly_avg": 15669
+    },
+    {
+      "no": 26,
+      "brand": "SJYP",
+      "total": 139515,
+      "offline": 84910,
+      "online": 54606,
+      "monthly_avg": 11626
+    },
+    {
+      "no": 27,
+      "brand": "르샵",
+      "total": 86125,
+      "offline": 0,
+      "online": 86125,
+      "monthly_avg": 7177
+    },
+    {
+      "no": 28,
+      "brand": "G.CUT",
+      "total": 79772,
+      "offline": 56632,
+      "online": 23140,
+      "monthly_avg": 6648
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 31689,
+      "offline": 25800,
+      "online": 5889,
+      "monthly_avg": 2641
+    },
+    {
+      "no": 30,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "킨텍스점": [
+    {
+      "no": 1,
+      "brand": "G.CUT",
+      "total": 1166158,
+      "offline": 191683,
+      "online": 974476,
+      "monthly_avg": 97180
+    },
+    {
+      "no": 2,
+      "brand": "시스템",
+      "total": 688344,
+      "offline": 688344,
+      "online": 0,
+      "monthly_avg": 57362
+    },
+    {
+      "no": 3,
+      "brand": "써스데이아일랜드",
+      "total": 519857,
+      "offline": 498083,
+      "online": 21774,
+      "monthly_avg": 43321
+    },
+    {
+      "no": 4,
+      "brand": "코데즈컴바인",
+      "total": 485568,
+      "offline": 320255,
+      "online": 165313,
+      "monthly_avg": 40464
+    },
+    {
+      "no": 5,
+      "brand": "잇미샤",
+      "total": 468288,
+      "offline": 415771,
+      "online": 52516,
+      "monthly_avg": 39024
+    },
+    {
+      "no": 6,
+      "brand": "케네스레이디",
+      "total": 447359,
+      "offline": 328328,
+      "online": 119031,
+      "monthly_avg": 37280
+    },
+    {
+      "no": 7,
+      "brand": "JJ지고트",
+      "total": 367320,
+      "offline": 161617,
+      "online": 205703,
+      "monthly_avg": 30610
+    },
+    {
+      "no": 8,
+      "brand": "라인",
+      "total": 352333,
+      "offline": 233031,
+      "online": 119302,
+      "monthly_avg": 29361
+    },
+    {
+      "no": 9,
+      "brand": "VOV",
+      "total": 314861,
+      "offline": 306212,
+      "online": 8648,
+      "monthly_avg": 26238
+    },
+    {
+      "no": 10,
+      "brand": "쥬크",
+      "total": 311848,
+      "offline": 311848,
+      "online": 0,
+      "monthly_avg": 25987
+    },
+    {
+      "no": 11,
+      "brand": "톰보이",
+      "total": 277803,
+      "offline": 249777,
+      "online": 28026,
+      "monthly_avg": 23150
+    },
+    {
+      "no": 12,
+      "brand": "시스티나",
+      "total": 273203,
+      "offline": 184972,
+      "online": 88231,
+      "monthly_avg": 22767
+    },
+    {
+      "no": 13,
+      "brand": "오즈세컨",
+      "total": 193477,
+      "offline": 193477,
+      "online": 0,
+      "monthly_avg": 16123
+    },
+    {
+      "no": 14,
+      "brand": "Dew.L",
+      "total": 113383,
+      "offline": 108082,
+      "online": 5301,
+      "monthly_avg": 9449
+    },
+    {
+      "no": 15,
+      "brand": "스튜디오원",
+      "total": 62653,
+      "offline": 56732,
+      "online": 5922,
+      "monthly_avg": 5221
+    },
+    {
+      "no": 16,
+      "brand": "SOUP_디큐브",
+      "total": 25680,
+      "offline": 25680,
+      "online": 0,
+      "monthly_avg": 2140
+    },
+    {
+      "no": 17,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "더현대대구": [
+    {
+      "no": 1,
+      "brand": "리스트",
+      "total": 2591752,
+      "offline": 1412072,
+      "online": 1179680,
+      "monthly_avg": 215979
+    },
+    {
+      "no": 2,
+      "brand": "톰보이",
+      "total": 1901213,
+      "offline": 1664389,
+      "online": 236824,
+      "monthly_avg": 158434
+    },
+    {
+      "no": 3,
+      "brand": "시스템",
+      "total": 968705,
+      "offline": 968705,
+      "online": 0,
+      "monthly_avg": 80725
+    },
+    {
+      "no": 4,
+      "brand": "CC collect",
+      "total": 968156,
+      "offline": 819857,
+      "online": 148299,
+      "monthly_avg": 80680
+    },
+    {
+      "no": 5,
+      "brand": "써스데이아일랜드",
+      "total": 926631,
+      "offline": 798843,
+      "online": 127788,
+      "monthly_avg": 77219
+    },
+    {
+      "no": 6,
+      "brand": "잇미샤",
+      "total": 864036,
+      "offline": 840127,
+      "online": 23909,
+      "monthly_avg": 72003
+    },
+    {
+      "no": 7,
+      "brand": "럭키슈에뜨",
+      "total": 807742,
+      "offline": 787326,
+      "online": 20415,
+      "monthly_avg": 67312
+    },
+    {
+      "no": 8,
+      "brand": "베네통",
+      "total": 780737,
+      "offline": 658781,
+      "online": 121956,
+      "monthly_avg": 65061
+    },
+    {
+      "no": 9,
+      "brand": "SJ",
+      "total": 779744,
+      "offline": 779744,
+      "online": 0,
+      "monthly_avg": 64979
+    },
+    {
+      "no": 10,
+      "brand": "Dew.L",
+      "total": 747784,
+      "offline": 720368,
+      "online": 27415,
+      "monthly_avg": 62315
+    },
+    {
+      "no": 11,
+      "brand": "케네스레이디",
+      "total": 706718,
+      "offline": 674551,
+      "online": 32167,
+      "monthly_avg": 58893
+    },
+    {
+      "no": 12,
+      "brand": "쥬크",
+      "total": 621338,
+      "offline": 453084,
+      "online": 168254,
+      "monthly_avg": 51778
+    },
+    {
+      "no": 13,
+      "brand": "G.CUT",
+      "total": 539752,
+      "offline": 365560,
+      "online": 174191,
+      "monthly_avg": 44979
+    },
+    {
+      "no": 14,
+      "brand": "VOV",
+      "total": 526490,
+      "offline": 476909,
+      "online": 49580,
+      "monthly_avg": 43874
+    },
+    {
+      "no": 15,
+      "brand": "쥬시쥬디",
+      "total": 431543,
+      "offline": 362172,
+      "online": 69372,
+      "monthly_avg": 35962
+    },
+    {
+      "no": 16,
+      "brand": "시스티나",
+      "total": 90565,
+      "offline": 90565,
+      "online": 0,
+      "monthly_avg": 7547
+    },
+    {
+      "no": 17,
+      "brand": "JCJD",
+      "total": 60756,
+      "offline": 62296,
+      "online": -1540,
+      "monthly_avg": 5063
+    },
+    {
+      "no": 18,
+      "brand": "SJYP",
+      "total": 15705,
+      "offline": 15705,
+      "online": 0,
+      "monthly_avg": 1309
+    },
+    {
+      "no": 19,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "충청점": [
+    {
+      "no": 1,
+      "brand": "시스템",
+      "total": 1091074,
+      "offline": 1091074,
+      "online": 0,
+      "monthly_avg": 90923
+    },
+    {
+      "no": 2,
+      "brand": "에고이스트",
+      "total": 679693,
+      "offline": 500781,
+      "online": 178912,
+      "monthly_avg": 56641
+    },
+    {
+      "no": 3,
+      "brand": "럭키슈에뜨",
+      "total": 665634,
+      "offline": 665634,
+      "online": 0,
+      "monthly_avg": 55469
+    },
+    {
+      "no": 4,
+      "brand": "SJ",
+      "total": 622538,
+      "offline": 622538,
+      "online": 0,
+      "monthly_avg": 51878
+    },
+    {
+      "no": 5,
+      "brand": "톰보이",
+      "total": 516625,
+      "offline": 516625,
+      "online": 0,
+      "monthly_avg": 43052
+    },
+    {
+      "no": 6,
+      "brand": "써스데이아일랜드",
+      "total": 502839,
+      "offline": 479310,
+      "online": 23529,
+      "monthly_avg": 41903
+    },
+    {
+      "no": 7,
+      "brand": "라인",
+      "total": 480715,
+      "offline": 480715,
+      "online": 0,
+      "monthly_avg": 40060
+    },
+    {
+      "no": 8,
+      "brand": "쥬크",
+      "total": 442856,
+      "offline": 316453,
+      "online": 126404,
+      "monthly_avg": 36905
+    },
+    {
+      "no": 9,
+      "brand": "케네스레이디",
+      "total": 421068,
+      "offline": 421068,
+      "online": 0,
+      "monthly_avg": 35089
+    },
+    {
+      "no": 10,
+      "brand": "플라스틱아일랜드",
+      "total": 395529,
+      "offline": 308357,
+      "online": 87173,
+      "monthly_avg": 32961
+    },
+    {
+      "no": 11,
+      "brand": "베네통",
+      "total": 385590,
+      "offline": 378889,
+      "online": 6700,
+      "monthly_avg": 32132
+    },
+    {
+      "no": 12,
+      "brand": "코데즈컴바인",
+      "total": 329512,
+      "offline": 329099,
+      "online": 413,
+      "monthly_avg": 27459
+    },
+    {
+      "no": 13,
+      "brand": "나이스클랍",
+      "total": 305375,
+      "offline": 305375,
+      "online": 0,
+      "monthly_avg": 25448
+    },
+    {
+      "no": 14,
+      "brand": "잇미샤",
+      "total": 272867,
+      "offline": 246948,
+      "online": 25919,
+      "monthly_avg": 22739
+    },
+    {
+      "no": 15,
+      "brand": "에꼴",
+      "total": 262948,
+      "offline": 178549,
+      "online": 84399,
+      "monthly_avg": 21912
+    },
+    {
+      "no": 16,
+      "brand": "르메르시앤",
+      "total": 251070,
+      "offline": 73278,
+      "online": 177792,
+      "monthly_avg": 20923
+    },
+    {
+      "no": 17,
+      "brand": "오즈세컨",
+      "total": 247469,
+      "offline": 247469,
+      "online": 0,
+      "monthly_avg": 20622
+    },
+    {
+      "no": 18,
+      "brand": "올리브데올리브",
+      "total": 239956,
+      "offline": 173068,
+      "online": 66889,
+      "monthly_avg": 19996
+    },
+    {
+      "no": 19,
+      "brand": "Dew.L",
+      "total": 190697,
+      "offline": 187077,
+      "online": 3619,
+      "monthly_avg": 15891
+    },
+    {
+      "no": 20,
+      "brand": "VOV",
+      "total": 182894,
+      "offline": 159734,
+      "online": 23160,
+      "monthly_avg": 15241
+    },
+    {
+      "no": 21,
+      "brand": "SOUP_디큐브",
+      "total": 30540,
+      "offline": 30540,
+      "online": 0,
+      "monthly_avg": 2545
+    },
+    {
+      "no": 22,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "디큐브시티": [
+    {
+      "no": 1,
+      "brand": "SOUP",
+      "total": 382742,
+      "offline": 280872,
+      "online": 101870,
+      "monthly_avg": 31895
+    },
+    {
+      "no": 2,
+      "brand": "쥬크",
+      "total": 300506,
+      "offline": 300506,
+      "online": 0,
+      "monthly_avg": 25042
+    },
+    {
+      "no": 3,
+      "brand": "베네통",
+      "total": 247017,
+      "offline": 247017,
+      "online": 0,
+      "monthly_avg": 20585
+    },
+    {
+      "no": 4,
+      "brand": "톰보이",
+      "total": 191031,
+      "offline": 137547,
+      "online": 53484,
+      "monthly_avg": 15919
+    },
+    {
+      "no": 5,
+      "brand": "시스티나",
+      "total": 177296,
+      "offline": 177354,
+      "online": -58,
+      "monthly_avg": 14775
+    },
+    {
+      "no": 6,
+      "brand": "리스트",
+      "total": 172467,
+      "offline": 110378,
+      "online": 62090,
+      "monthly_avg": 14372
+    },
+    {
+      "no": 7,
+      "brand": "G.CUT",
+      "total": 170824,
+      "offline": 41293,
+      "online": 129532,
+      "monthly_avg": 14235
+    },
+    {
+      "no": 8,
+      "brand": "케네스레이디",
+      "total": 160056,
+      "offline": 160056,
+      "online": 0,
+      "monthly_avg": 13338
+    },
+    {
+      "no": 9,
+      "brand": "라인",
+      "total": 158083,
+      "offline": 157057,
+      "online": 1026,
+      "monthly_avg": 13174
+    },
+    {
+      "no": 10,
+      "brand": "잇미샤",
+      "total": 143701,
+      "offline": 140586,
+      "online": 3115,
+      "monthly_avg": 11975
+    },
+    {
+      "no": 11,
+      "brand": "나이스클랍",
+      "total": 120712,
+      "offline": 89336,
+      "online": 31376,
+      "monthly_avg": 10059
+    },
+    {
+      "no": 12,
+      "brand": "JJ지고트",
+      "total": 115078,
+      "offline": 114542,
+      "online": 536,
+      "monthly_avg": 9590
+    },
+    {
+      "no": 13,
+      "brand": "SOUP_디큐브",
+      "total": 112239,
+      "offline": 97713,
+      "online": 14526,
+      "monthly_avg": 9353
+    },
+    {
+      "no": 14,
+      "brand": "VOV",
+      "total": 110779,
+      "offline": 99788,
+      "online": 10991,
+      "monthly_avg": 9232
+    },
+    {
+      "no": 15,
+      "brand": "플라스틱아일랜드",
+      "total": 102014,
+      "offline": 89736,
+      "online": 12278,
+      "monthly_avg": 8501
+    },
+    {
+      "no": 16,
+      "brand": "CC collect",
+      "total": 84454,
+      "offline": 45865,
+      "online": 38589,
+      "monthly_avg": 7038
+    },
+    {
+      "no": 17,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "가산 아울렛": [
+    {
+      "no": 1,
+      "brand": "리스트",
+      "total": 2305260,
+      "offline": 579375,
+      "online": 1725885,
+      "monthly_avg": 192105
+    },
+    {
+      "no": 2,
+      "brand": "Dew.L",
+      "total": 1006601,
+      "offline": 721544,
+      "online": 285057,
+      "monthly_avg": 83883
+    },
+    {
+      "no": 3,
+      "brand": "더아이잗",
+      "total": 759829,
+      "offline": 489012,
+      "online": 270817,
+      "monthly_avg": 63319
+    },
+    {
+      "no": 4,
+      "brand": "써스데이아일랜드",
+      "total": 752303,
+      "offline": 439271,
+      "online": 313032,
+      "monthly_avg": 62692
+    },
+    {
+      "no": 5,
+      "brand": "CC collect",
+      "total": 751360,
+      "offline": 478881,
+      "online": 272479,
+      "monthly_avg": 62613
+    },
+    {
+      "no": 6,
+      "brand": "쥬크",
+      "total": 722016,
+      "offline": 457111,
+      "online": 264905,
+      "monthly_avg": 60168
+    },
+    {
+      "no": 7,
+      "brand": "나이스클랍",
+      "total": 605916,
+      "offline": 448382,
+      "online": 157534,
+      "monthly_avg": 50493
+    },
+    {
+      "no": 8,
+      "brand": "시스티나",
+      "total": 516254,
+      "offline": 313452,
+      "online": 202802,
+      "monthly_avg": 43021
+    },
+    {
+      "no": 9,
+      "brand": "톰보이",
+      "total": 494936,
+      "offline": 446648,
+      "online": 48288,
+      "monthly_avg": 41245
+    },
+    {
+      "no": 10,
+      "brand": "올리브데올리브",
+      "total": 481015,
+      "offline": 305779,
+      "online": 175235,
+      "monthly_avg": 40085
+    },
+    {
+      "no": 11,
+      "brand": "잇미샤",
+      "total": 478737,
+      "offline": 393376,
+      "online": 85361,
+      "monthly_avg": 39895
+    },
+    {
+      "no": 12,
+      "brand": "온앤온",
+      "total": 437715,
+      "offline": 344298,
+      "online": 93417,
+      "monthly_avg": 36476
+    },
+    {
+      "no": 13,
+      "brand": "케네스레이디",
+      "total": 307769,
+      "offline": 279315,
+      "online": 28454,
+      "monthly_avg": 25647
+    },
+    {
+      "no": 14,
+      "brand": "라인",
+      "total": 207788,
+      "offline": 206572,
+      "online": 1217,
+      "monthly_avg": 17316
+    },
+    {
+      "no": 15,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "동대문 아울렛": [
+    {
+      "no": 1,
+      "brand": "VOV",
+      "total": 661772,
+      "offline": 209172,
+      "online": 452600,
+      "monthly_avg": 55148
+    },
+    {
+      "no": 2,
+      "brand": "쥬크",
+      "total": 624908,
+      "offline": 258355,
+      "online": 366553,
+      "monthly_avg": 52076
+    },
+    {
+      "no": 3,
+      "brand": "케네스레이디",
+      "total": 588068,
+      "offline": 558443,
+      "online": 29624,
+      "monthly_avg": 49006
+    },
+    {
+      "no": 4,
+      "brand": "리스트",
+      "total": 531269,
+      "offline": 328305,
+      "online": 202964,
+      "monthly_avg": 44272
+    },
+    {
+      "no": 5,
+      "brand": "Dew.L",
+      "total": 507258,
+      "offline": 361632,
+      "online": 145625,
+      "monthly_avg": 42271
+    },
+    {
+      "no": 6,
+      "brand": "JJ지고트",
+      "total": 451570,
+      "offline": 157655,
+      "online": 293916,
+      "monthly_avg": 37631
+    },
+    {
+      "no": 7,
+      "brand": "VISIT",
+      "total": 445222,
+      "offline": 439731,
+      "online": 5491,
+      "monthly_avg": 37102
+    },
+    {
+      "no": 8,
+      "brand": "올리브데올리브",
+      "total": 442636,
+      "offline": 90054,
+      "online": 352582,
+      "monthly_avg": 36886
+    },
+    {
+      "no": 9,
+      "brand": "CC collect",
+      "total": 429046,
+      "offline": 265684,
+      "online": 163362,
+      "monthly_avg": 35754
+    },
+    {
+      "no": 10,
+      "brand": "온앤온",
+      "total": 362159,
+      "offline": 239875,
+      "online": 122284,
+      "monthly_avg": 30180
+    },
+    {
+      "no": 11,
+      "brand": "톰보이",
+      "total": 325631,
+      "offline": 286233,
+      "online": 39398,
+      "monthly_avg": 27136
+    },
+    {
+      "no": 12,
+      "brand": "잇미샤",
+      "total": 287100,
+      "offline": 180073,
+      "online": 107027,
+      "monthly_avg": 23925
+    },
+    {
+      "no": 13,
+      "brand": "G.CUT",
+      "total": 203952,
+      "offline": 107130,
+      "online": 96822,
+      "monthly_avg": 16996
+    },
+    {
+      "no": 14,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "가든파이브": [
+    {
+      "no": 1,
+      "brand": "잇미샤",
+      "total": 1215103,
+      "offline": 667937,
+      "online": 547166,
+      "monthly_avg": 101259
+    },
+    {
+      "no": 2,
+      "brand": "쥬크",
+      "total": 944557,
+      "offline": 619041,
+      "online": 325515,
+      "monthly_avg": 78713
+    },
+    {
+      "no": 3,
+      "brand": "베네통",
+      "total": 605976,
+      "offline": 582002,
+      "online": 23973,
+      "monthly_avg": 50498
+    },
+    {
+      "no": 4,
+      "brand": "올리브데올리브",
+      "total": 593189,
+      "offline": 254578,
+      "online": 338611,
+      "monthly_avg": 49432
+    },
+    {
+      "no": 5,
+      "brand": "리스트",
+      "total": 586567,
+      "offline": 317440,
+      "online": 269128,
+      "monthly_avg": 48881
+    },
+    {
+      "no": 6,
+      "brand": "나이스클랍",
+      "total": 477275,
+      "offline": 362680,
+      "online": 114595,
+      "monthly_avg": 39773
+    },
+    {
+      "no": 7,
+      "brand": "케네스레이디",
+      "total": 389049,
+      "offline": 372301,
+      "online": 16747,
+      "monthly_avg": 32421
+    },
+    {
+      "no": 8,
+      "brand": "CC collect",
+      "total": 373054,
+      "offline": 330775,
+      "online": 42278,
+      "monthly_avg": 31088
+    },
+    {
+      "no": 9,
+      "brand": "온앤온",
+      "total": 357951,
+      "offline": 317536,
+      "online": 40416,
+      "monthly_avg": 29829
+    },
+    {
+      "no": 10,
+      "brand": "G.CUT",
+      "total": 320504,
+      "offline": 319345,
+      "online": 1159,
+      "monthly_avg": 26709
+    },
+    {
+      "no": 11,
+      "brand": "톰보이",
+      "total": 308641,
+      "offline": 308641,
+      "online": 0,
+      "monthly_avg": 25720
+    },
+    {
+      "no": 12,
+      "brand": "Dew.L",
+      "total": 301906,
+      "offline": 167165,
+      "online": 134741,
+      "monthly_avg": 25159
+    },
+    {
+      "no": 13,
+      "brand": "ab.f.z",
+      "total": 269013,
+      "offline": 178593,
+      "online": 90420,
+      "monthly_avg": 22418
+    },
+    {
+      "no": 14,
+      "brand": "라인",
+      "total": 202380,
+      "offline": 177535,
+      "online": 24846,
+      "monthly_avg": 16865
+    },
+    {
+      "no": 15,
+      "brand": "VOV",
+      "total": 197274,
+      "offline": 161029,
+      "online": 36245,
+      "monthly_avg": 16440
+    },
+    {
+      "no": 16,
+      "brand": "코데즈컴바인",
+      "total": 81243,
+      "offline": 29358,
+      "online": 51884,
+      "monthly_avg": 6770
+    },
+    {
+      "no": 17,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "대구 아울렛": [
+    {
+      "no": 1,
+      "brand": "온앤온",
+      "total": 745660,
+      "offline": 533033,
+      "online": 212627,
+      "monthly_avg": 62138
+    },
+    {
+      "no": 2,
+      "brand": "CC collect",
+      "total": 723404,
+      "offline": 719133,
+      "online": 4270,
+      "monthly_avg": 60284
+    },
+    {
+      "no": 3,
+      "brand": "에고이스트",
+      "total": 721761,
+      "offline": 491507,
+      "online": 230254,
+      "monthly_avg": 60147
+    },
+    {
+      "no": 4,
+      "brand": "JJ지고트",
+      "total": 686046,
+      "offline": 381699,
+      "online": 304348,
+      "monthly_avg": 57171
+    },
+    {
+      "no": 5,
+      "brand": "리스트",
+      "total": 652812,
+      "offline": 652613,
+      "online": 199,
+      "monthly_avg": 54401
+    },
+    {
+      "no": 6,
+      "brand": "올리브데올리브",
+      "total": 555926,
+      "offline": 345444,
+      "online": 210482,
+      "monthly_avg": 46327
+    },
+    {
+      "no": 7,
+      "brand": "Dew.L",
+      "total": 550255,
+      "offline": 494229,
+      "online": 56026,
+      "monthly_avg": 45855
+    },
+    {
+      "no": 8,
+      "brand": "라인",
+      "total": 530026,
+      "offline": 524841,
+      "online": 5185,
+      "monthly_avg": 44169
+    },
+    {
+      "no": 9,
+      "brand": "잇미샤",
+      "total": 484820,
+      "offline": 351029,
+      "online": 133791,
+      "monthly_avg": 40402
+    },
+    {
+      "no": 10,
+      "brand": "시스티나",
+      "total": 483262,
+      "offline": 423838,
+      "online": 59424,
+      "monthly_avg": 40272
+    },
+    {
+      "no": 11,
+      "brand": "쥬크",
+      "total": 480558,
+      "offline": 447877,
+      "online": 32681,
+      "monthly_avg": 40047
+    },
+    {
+      "no": 12,
+      "brand": "코데즈컴바인",
+      "total": 447231,
+      "offline": 447231,
+      "online": 0,
+      "monthly_avg": 37269
+    },
+    {
+      "no": 13,
+      "brand": "VOV",
+      "total": 442956,
+      "offline": 410481,
+      "online": 32475,
+      "monthly_avg": 36913
+    },
+    {
+      "no": 14,
+      "brand": "케네스레이디",
+      "total": 425628,
+      "offline": 359804,
+      "online": 65825,
+      "monthly_avg": 35469
+    },
+    {
+      "no": 15,
+      "brand": "SOUP",
+      "total": 380095,
+      "offline": 282016,
+      "online": 98079,
+      "monthly_avg": 31675
+    },
+    {
+      "no": 16,
+      "brand": "나이스클랍",
+      "total": 378594,
+      "offline": 327085,
+      "online": 51509,
+      "monthly_avg": 31549
+    },
+    {
+      "no": 17,
+      "brand": "더아이잗",
+      "total": 366756,
+      "offline": 362804,
+      "online": 3952,
+      "monthly_avg": 30563
+    },
+    {
+      "no": 18,
+      "brand": "ab.f.z",
+      "total": 241687,
+      "offline": 205922,
+      "online": 35764,
+      "monthly_avg": 20141
+    },
+    {
+      "no": 19,
+      "brand": "플라스틱아일랜드",
+      "total": 207826,
+      "offline": 184989,
+      "online": 22837,
+      "monthly_avg": 17319
+    },
+    {
+      "no": 20,
+      "brand": "르샵",
+      "total": 179541,
+      "offline": 176332,
+      "online": 3209,
+      "monthly_avg": 14962
+    },
+    {
+      "no": 21,
+      "brand": "VISIT",
+      "total": 127169,
+      "offline": 123803,
+      "online": 3366,
+      "monthly_avg": 10597
+    },
+    {
+      "no": 22,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "대전 아울렛": [
+    {
+      "no": 1,
+      "brand": "리스트",
+      "total": 2737330,
+      "offline": 2735790,
+      "online": 1540,
+      "monthly_avg": 228111
+    },
+    {
+      "no": 2,
+      "brand": "온앤온",
+      "total": 1646242,
+      "offline": 1645958,
+      "online": 284,
+      "monthly_avg": 137187
+    },
+    {
+      "no": 3,
+      "brand": "코데즈컴바인",
+      "total": 1602673,
+      "offline": 1601309,
+      "online": 1364,
+      "monthly_avg": 133556
+    },
+    {
+      "no": 4,
+      "brand": "라인",
+      "total": 1528938,
+      "offline": 1521600,
+      "online": 7338,
+      "monthly_avg": 127412
+    },
+    {
+      "no": 5,
+      "brand": "나이스클랍",
+      "total": 1465519,
+      "offline": 1459469,
+      "online": 6050,
+      "monthly_avg": 122127
+    },
+    {
+      "no": 6,
+      "brand": "올리브데올리브",
+      "total": 1408148,
+      "offline": 1396813,
+      "online": 11335,
+      "monthly_avg": 117346
+    },
+    {
+      "no": 7,
+      "brand": "쥬크",
+      "total": 1404554,
+      "offline": 1394541,
+      "online": 10013,
+      "monthly_avg": 117046
+    },
+    {
+      "no": 8,
+      "brand": "Dew.L",
+      "total": 1396208,
+      "offline": 1234179,
+      "online": 162028,
+      "monthly_avg": 116351
+    },
+    {
+      "no": 9,
+      "brand": "톰보이",
+      "total": 1365234,
+      "offline": 1364955,
+      "online": 279,
+      "monthly_avg": 113770
+    },
+    {
+      "no": 10,
+      "brand": "케네스레이디",
+      "total": 1338910,
+      "offline": 1303435,
+      "online": 35475,
+      "monthly_avg": 111576
+    },
+    {
+      "no": 11,
+      "brand": "CC collect",
+      "total": 1242339,
+      "offline": 1238179,
+      "online": 4160,
+      "monthly_avg": 103528
+    },
+    {
+      "no": 12,
+      "brand": "써스데이아일랜드",
+      "total": 1214272,
+      "offline": 1210563,
+      "online": 3709,
+      "monthly_avg": 101189
+    },
+    {
+      "no": 13,
+      "brand": "VOV",
+      "total": 729765,
+      "offline": 692391,
+      "online": 37374,
+      "monthly_avg": 60814
+    },
+    {
+      "no": 14,
+      "brand": "JJ지고트",
+      "total": 263880,
+      "offline": 263880,
+      "online": 0,
+      "monthly_avg": 21990
+    },
+    {
+      "no": 15,
+      "brand": "G.CUT",
+      "total": 19749,
+      "offline": 19749,
+      "online": 0,
+      "monthly_avg": 1646
+    },
+    {
+      "no": 16,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "스페이스원": [
+    {
+      "no": 1,
+      "brand": "써스데이아일랜드",
+      "total": 2222198,
+      "offline": 2168607,
+      "online": 53591,
+      "monthly_avg": 185183
+    },
+    {
+      "no": 2,
+      "brand": "쥬크",
+      "total": 2148592,
+      "offline": 2122478,
+      "online": 26114,
+      "monthly_avg": 179049
+    },
+    {
+      "no": 3,
+      "brand": "Dew.L",
+      "total": 2000878,
+      "offline": 1896665,
+      "online": 104213,
+      "monthly_avg": 166740
+    },
+    {
+      "no": 4,
+      "brand": "톰보이",
+      "total": 1564067,
+      "offline": 1539085,
+      "online": 24982,
+      "monthly_avg": 130339
+    },
+    {
+      "no": 5,
+      "brand": "CC collect",
+      "total": 1557329,
+      "offline": 1541435,
+      "online": 15894,
+      "monthly_avg": 129777
+    },
+    {
+      "no": 6,
+      "brand": "VOV",
+      "total": 1355891,
+      "offline": 1355451,
+      "online": 440,
+      "monthly_avg": 112991
+    },
+    {
+      "no": 7,
+      "brand": "에고이스트",
+      "total": 1328861,
+      "offline": 1085051,
+      "online": 243810,
+      "monthly_avg": 110738
+    },
+    {
+      "no": 8,
+      "brand": "라인",
+      "total": 1294384,
+      "offline": 1285317,
+      "online": 9068,
+      "monthly_avg": 107865
+    },
+    {
+      "no": 9,
+      "brand": "잇미샤",
+      "total": 1202190,
+      "offline": 1184587,
+      "online": 17603,
+      "monthly_avg": 100182
+    },
+    {
+      "no": 10,
+      "brand": "케네스레이디",
+      "total": 1197574,
+      "offline": 900526,
+      "online": 297047,
+      "monthly_avg": 99798
+    },
+    {
+      "no": 11,
+      "brand": "코데즈컴바인",
+      "total": 1186370,
+      "offline": 1177059,
+      "online": 9311,
+      "monthly_avg": 98864
+    },
+    {
+      "no": 12,
+      "brand": "리스트",
+      "total": 1067713,
+      "offline": 1067713,
+      "online": 0,
+      "monthly_avg": 88976
+    },
+    {
+      "no": 13,
+      "brand": "나이스클랍",
+      "total": 863391,
+      "offline": 863025,
+      "online": 365,
+      "monthly_avg": 71949
+    },
+    {
+      "no": 14,
+      "brand": "온앤온",
+      "total": 58490,
+      "offline": 58490,
+      "online": 0,
+      "monthly_avg": 4874
+    },
+    {
+      "no": 15,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "부산점": [
+    {
+      "no": 1,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 2,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 3,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 4,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 5,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 6,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 7,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 8,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 9,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 10,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 11,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 12,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "천호점": [
+    {
+      "no": 1,
+      "brand": "CC collect",
+      "total": 1119993,
+      "offline": 575979,
+      "online": 544015,
+      "monthly_avg": 93333
+    },
+    {
+      "no": 2,
+      "brand": "SOUP",
+      "total": 1074669,
+      "offline": 454015,
+      "online": 620654,
+      "monthly_avg": 89556
+    },
+    {
+      "no": 3,
+      "brand": "시스템",
+      "total": 760417,
+      "offline": 760417,
+      "online": 0,
+      "monthly_avg": 63368
+    },
+    {
+      "no": 4,
+      "brand": "오즈세컨",
+      "total": 706874,
+      "offline": 706874,
+      "online": 0,
+      "monthly_avg": 58906
+    },
+    {
+      "no": 5,
+      "brand": "VOV",
+      "total": 694926,
+      "offline": 426758,
+      "online": 268168,
+      "monthly_avg": 57910
+    },
+    {
+      "no": 6,
+      "brand": "써스데이아일랜드",
+      "total": 673069,
+      "offline": 483086,
+      "online": 189983,
+      "monthly_avg": 56089
+    },
+    {
+      "no": 7,
+      "brand": "G.CUT",
+      "total": 608836,
+      "offline": 585282,
+      "online": 23554,
+      "monthly_avg": 50736
+    },
+    {
+      "no": 8,
+      "brand": "톰보이",
+      "total": 605986,
+      "offline": 397194,
+      "online": 208792,
+      "monthly_avg": 50499
+    },
+    {
+      "no": 9,
+      "brand": "베네통",
+      "total": 600357,
+      "offline": 591572,
+      "online": 8785,
+      "monthly_avg": 50030
+    },
+    {
+      "no": 10,
+      "brand": "잇미샤",
+      "total": 585795,
+      "offline": 317753,
+      "online": 268042,
+      "monthly_avg": 48816
+    },
+    {
+      "no": 11,
+      "brand": "JJ지고트",
+      "total": 539807,
+      "offline": 320532,
+      "online": 219275,
+      "monthly_avg": 44984
+    },
+    {
+      "no": 12,
+      "brand": "리스트",
+      "total": 482518,
+      "offline": 352800,
+      "online": 129719,
+      "monthly_avg": 40210
+    },
+    {
+      "no": 13,
+      "brand": "SJ",
+      "total": 475091,
+      "offline": 475091,
+      "online": 0,
+      "monthly_avg": 39591
+    },
+    {
+      "no": 14,
+      "brand": "코데즈컴바인",
+      "total": 381470,
+      "offline": 205925,
+      "online": 175545,
+      "monthly_avg": 31789
+    },
+    {
+      "no": 15,
+      "brand": "럭키슈에뜨",
+      "total": 362067,
+      "offline": 326470,
+      "online": 35597,
+      "monthly_avg": 30172
+    },
+    {
+      "no": 16,
+      "brand": "올리브데올리브",
+      "total": 309365,
+      "offline": 134342,
+      "online": 175023,
+      "monthly_avg": 25780
+    },
+    {
+      "no": 17,
+      "brand": "쥬크",
+      "total": 297463,
+      "offline": 187921,
+      "online": 109542,
+      "monthly_avg": 24789
+    },
+    {
+      "no": 18,
+      "brand": "에고이스트",
+      "total": 267529,
+      "offline": 220447,
+      "online": 47082,
+      "monthly_avg": 22294
+    },
+    {
+      "no": 19,
+      "brand": "시스티나",
+      "total": 248113,
+      "offline": 184329,
+      "online": 63783,
+      "monthly_avg": 20676
+    },
+    {
+      "no": 20,
+      "brand": "라인",
+      "total": 243911,
+      "offline": 213893,
+      "online": 30018,
+      "monthly_avg": 20326
+    },
+    {
+      "no": 21,
+      "brand": "Dew.L",
+      "total": 193724,
+      "offline": 186321,
+      "online": 7402,
+      "monthly_avg": 16144
+    },
+    {
+      "no": 22,
+      "brand": "나이스클랍",
+      "total": 193321,
+      "offline": 137751,
+      "online": 55570,
+      "monthly_avg": 16110
+    },
+    {
+      "no": 23,
+      "brand": "SOUP_디큐브",
+      "total": 20074,
+      "offline": 18290,
+      "online": 1784,
+      "monthly_avg": 1673
+    },
+    {
+      "no": 24,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "판교점": [
+    {
+      "no": 1,
+      "brand": "써스데이아일랜드",
+      "total": 2629806,
+      "offline": 363388,
+      "online": 2266418,
+      "monthly_avg": 219151
+    },
+    {
+      "no": 2,
+      "brand": "쥬크",
+      "total": 1607810,
+      "offline": 707213,
+      "online": 900598,
+      "monthly_avg": 133984
+    },
+    {
+      "no": 3,
+      "brand": "시스템",
+      "total": 1234842,
+      "offline": 1234842,
+      "online": 0,
+      "monthly_avg": 102903
+    },
+    {
+      "no": 4,
+      "brand": "SJ",
+      "total": 1121987,
+      "offline": 1121987,
+      "online": 0,
+      "monthly_avg": 93499
+    },
+    {
+      "no": 5,
+      "brand": "시스티나",
+      "total": 1047186,
+      "offline": 940039,
+      "online": 107147,
+      "monthly_avg": 87265
+    },
+    {
+      "no": 6,
+      "brand": "라인어디션",
+      "total": 950881,
+      "offline": 877349,
+      "online": 73532,
+      "monthly_avg": 79240
+    },
+    {
+      "no": 7,
+      "brand": "오즈세컨",
+      "total": 445419,
+      "offline": 445419,
+      "online": 0,
+      "monthly_avg": 37118
+    },
+    {
+      "no": 8,
+      "brand": "라인",
+      "total": 300000,
+      "offline": 300000,
+      "online": 0,
+      "monthly_avg": 25000
+    },
+    {
+      "no": 9,
+      "brand": "SJYP",
+      "total": 296324,
+      "offline": 237744,
+      "online": 58580,
+      "monthly_avg": 24694
+    },
+    {
+      "no": 10,
+      "brand": "플라스틱아일랜드",
+      "total": 209155,
+      "offline": 209155,
+      "online": 0,
+      "monthly_avg": 17430
+    },
+    {
+      "no": 11,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 12,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "김포 아울렛": [
+    {
+      "no": 1,
+      "brand": "톰보이",
+      "total": 1613755,
+      "offline": 1600611,
+      "online": 13144,
+      "monthly_avg": 134480
+    },
+    {
+      "no": 2,
+      "brand": "잇미샤",
+      "total": 1535324,
+      "offline": 1441060,
+      "online": 94264,
+      "monthly_avg": 127944
+    },
+    {
+      "no": 3,
+      "brand": "라인",
+      "total": 1520933,
+      "offline": 1395145,
+      "online": 125788,
+      "monthly_avg": 126744
+    },
+    {
+      "no": 4,
+      "brand": "온앤온",
+      "total": 1296404,
+      "offline": 607176,
+      "online": 689228,
+      "monthly_avg": 108034
+    },
+    {
+      "no": 5,
+      "brand": "CC collect",
+      "total": 1275606,
+      "offline": 1076441,
+      "online": 199165,
+      "monthly_avg": 106300
+    },
+    {
+      "no": 6,
+      "brand": "Dew.L",
+      "total": 1248237,
+      "offline": 1151749,
+      "online": 96488,
+      "monthly_avg": 104020
+    },
+    {
+      "no": 7,
+      "brand": "리스트",
+      "total": 1212874,
+      "offline": 1196963,
+      "online": 15911,
+      "monthly_avg": 101073
+    },
+    {
+      "no": 8,
+      "brand": "쥬크",
+      "total": 1207535,
+      "offline": 1066876,
+      "online": 140658,
+      "monthly_avg": 100628
+    },
+    {
+      "no": 9,
+      "brand": "써스데이아일랜드",
+      "total": 1182007,
+      "offline": 979730,
+      "online": 202277,
+      "monthly_avg": 98501
+    },
+    {
+      "no": 10,
+      "brand": "시스티나",
+      "total": 1084604,
+      "offline": 998497,
+      "online": 86107,
+      "monthly_avg": 90384
+    },
+    {
+      "no": 11,
+      "brand": "VOV",
+      "total": 1022749,
+      "offline": 864755,
+      "online": 157994,
+      "monthly_avg": 85229
+    },
+    {
+      "no": 12,
+      "brand": "에고이스트",
+      "total": 909973,
+      "offline": 365202,
+      "online": 544772,
+      "monthly_avg": 75831
+    },
+    {
+      "no": 13,
+      "brand": "G.CUT",
+      "total": 393194,
+      "offline": 274587,
+      "online": 118606,
+      "monthly_avg": 32766
+    },
+    {
+      "no": 14,
+      "brand": "럭키슈에뜨",
+      "total": 84480,
+      "offline": 84480,
+      "online": 0,
+      "monthly_avg": 7040
+    },
+    {
+      "no": 15,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "무역센터점": [
+    {
+      "no": 1,
+      "brand": "시스템",
+      "total": 783378,
+      "offline": 783378,
+      "online": 0,
+      "monthly_avg": 65281
+    },
+    {
+      "no": 2,
+      "brand": "SJ",
+      "total": 465185,
+      "offline": 465185,
+      "online": 0,
+      "monthly_avg": 38765
+    },
+    {
+      "no": 3,
+      "brand": "오즈세컨",
+      "total": 376256,
+      "offline": 376256,
+      "online": 0,
+      "monthly_avg": 31355
+    },
+    {
+      "no": 4,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 5,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 6,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 7,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 8,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 9,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 10,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 11,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 12,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "더현대서울": [
+    {
+      "no": 1,
+      "brand": "시스템",
+      "total": 1989688,
+      "offline": 1989688,
+      "online": 0,
+      "monthly_avg": 165807
+    },
+    {
+      "no": 2,
+      "brand": "시스티나",
+      "total": 1429452,
+      "offline": 1429452,
+      "online": 0,
+      "monthly_avg": 119121
+    },
+    {
+      "no": 3,
+      "brand": "SJ",
+      "total": 715758,
+      "offline": 715758,
+      "online": 0,
+      "monthly_avg": 59646
+    },
+    {
+      "no": 4,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 5,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 6,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 7,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 8,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 9,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 10,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 11,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 12,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "송도 아울렛": [
+    {
+      "no": 1,
+      "brand": "리스트",
+      "total": 1897850,
+      "offline": 1775140,
+      "online": 122710,
+      "monthly_avg": 158154
+    },
+    {
+      "no": 2,
+      "brand": "코데즈컴바인",
+      "total": 1800472,
+      "offline": 1800472,
+      "online": 0,
+      "monthly_avg": 150039
+    },
+    {
+      "no": 3,
+      "brand": "쥬크",
+      "total": 1684009,
+      "offline": 1672115,
+      "online": 11893,
+      "monthly_avg": 140334
+    },
+    {
+      "no": 4,
+      "brand": "나이스클랍",
+      "total": 1674142,
+      "offline": 1635874,
+      "online": 38268,
+      "monthly_avg": 139512
+    },
+    {
+      "no": 5,
+      "brand": "Dew.L",
+      "total": 1414372,
+      "offline": 1392377,
+      "online": 21995,
+      "monthly_avg": 117864
+    },
+    {
+      "no": 6,
+      "brand": "VOV",
+      "total": 1239772,
+      "offline": 1152758,
+      "online": 87014,
+      "monthly_avg": 103314
+    },
+    {
+      "no": 7,
+      "brand": "써스데이아일랜드",
+      "total": 1222929,
+      "offline": 1174337,
+      "online": 48592,
+      "monthly_avg": 101911
+    },
+    {
+      "no": 8,
+      "brand": "온앤온",
+      "total": 1221262,
+      "offline": 944282,
+      "online": 276980,
+      "monthly_avg": 101772
+    },
+    {
+      "no": 9,
+      "brand": "CC collect",
+      "total": 207711,
+      "offline": 207711,
+      "online": 0,
+      "monthly_avg": 17309
+    },
+    {
+      "no": 10,
+      "brand": "라인",
+      "total": 40753,
+      "offline": 40753,
+      "online": 0,
+      "monthly_avg": 3396
+    },
+    {
+      "no": 11,
+      "brand": "G.CUT",
+      "total": 13740,
+      "offline": 13740,
+      "online": 0,
+      "monthly_avg": 1145
+    },
+    {
+      "no": 12,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "멀티플라자": [
+    {
+      "no": 1,
+      "brand": "플라스틱아일랜드",
+      "total": 195589,
+      "offline": 195589,
+      "online": 0,
+      "monthly_avg": 16299
+    },
+    {
+      "no": 2,
+      "brand": "시스템",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 3,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 4,
+      "brand": "SJ",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 5,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 6,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 7,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 8,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 9,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 10,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 11,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 12,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ],
+  "본   점": [
+    {
+      "no": 1,
+      "brand": "시스템",
+      "total": 965001,
+      "offline": 965001,
+      "online": 0,
+      "monthly_avg": 80417
+    },
+    {
+      "no": 2,
+      "brand": "SJ",
+      "total": 562051,
+      "offline": 562051,
+      "online": 0,
+      "monthly_avg": 46838
+    },
+    {
+      "no": 3,
+      "brand": "쥬크",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 4,
+      "brand": "써스데이아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 5,
+      "brand": "베네통",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 6,
+      "brand": "라인어디션",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 7,
+      "brand": "톰보이",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 8,
+      "brand": "오즈세컨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 9,
+      "brand": "시스티나",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 10,
+      "brand": "SJYP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 11,
+      "brand": "라인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 12,
+      "brand": "케네스레이디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 13,
+      "brand": "스튜디오원",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 14,
+      "brand": "리스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 15,
+      "brand": "잇미샤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 16,
+      "brand": "JJ지고트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 17,
+      "brand": "더아이잗",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 18,
+      "brand": "CC collect",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 19,
+      "brand": "Dew.L",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 20,
+      "brand": "VOV",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 21,
+      "brand": "G.CUT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 22,
+      "brand": "에고이스트",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 23,
+      "brand": "플라스틱아일랜드",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 24,
+      "brand": "플라스틱아일랜드스토리",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 25,
+      "brand": "SOUP",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 26,
+      "brand": "SOUP_디큐브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 27,
+      "brand": "르메르시앤",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 28,
+      "brand": "N.Y.STUDIO",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 29,
+      "brand": "VISIT",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 30,
+      "brand": "올리브데올리브",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 31,
+      "brand": "르샵",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 32,
+      "brand": "온앤온",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 33,
+      "brand": "온앤온(Muualla)",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 34,
+      "brand": "에꼴",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 35,
+      "brand": "쥬시쥬디",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 36,
+      "brand": "JCJD",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 37,
+      "brand": "럭키슈에뜨",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 38,
+      "brand": "코데즈컴바인",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 39,
+      "brand": "나이스클랍",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 40,
+      "brand": "ab.f.z",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    },
+    {
+      "no": 41,
+      "brand": "GGPX",
+      "total": 0,
+      "offline": 0,
+      "online": 0,
+      "monthly_avg": 0
+    }
+  ]
+}
